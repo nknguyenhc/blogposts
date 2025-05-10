@@ -1,77 +1,34 @@
 <frontmatter>
-  title: Home Page
+  title: Catholic Blog Posts
   layout: default.md
   pageNav: 4
-  pageNavTitle: "Topics"
+  pageNavTitle: "Home 🏠"
 </frontmatter>
 
 <br>
 
-<div class="bg-primary text-white px-2 py-5 mb-4">
-  <div class="container">
-    <h1 class="display-5 no-index">Great!<br>You've just initialized a MarkBind site.</h1>
-    <p class="lead">Let's get started...</p>
-  </div>
-</div>
-
----
-
-## What just happened?
-
-You have just initialized a _default_ MarkBind site! It is equipped with a set of core features, including site and page navigation. Additionally, we have included some convenient links to our User Guide, to help you get started quickly and easily.
+## Why Christianity
 
 <box type="tip">
 
-If you were intending to convert an existing GitHub wiki or a docs folder into MarkBind, use the `--convert` flag instead. See <a href="https://markbind.org/userGuide/markBindInTheProjectWorkflow.html#converting-existing-project-documentation-wiki" target="_blank">User Guide: MarkBind in the Project Workflow</a> for more information.
+**Matthew 12:31**
 
-If you want to start with a <tooltip content="i.e. without any content">_minimal_</tooltip> template instead, use the `--template` flag with the "minimal" option to initialize a minimal site instead of the default. See <a href="https://markbind.org/userGuide/templates.html" target="_blank">User Guide: Templates</a> for more information.
-
-</box>
-
----
-
-## Navigating this site
-
-This _default_ site comes pre-configured with the core <a href="https://markbind.org/userGuide/components/navigation.html#navigation-components" target="_blank">Navigation components</a>: a <tooltip content="Site Navigation">**siteNav**</tooltip>, a <tooltip content="Page Navigation">**pageNav**</tooltip>, a <tooltip content="Navigation Bar">**NavBar**</tooltip>, and a **Search Bar**. To help you get started with the **siteNav**, we have included <tooltip content="Topic 1, Topic 2, Topic 3, Topic 3a, Topic 3b">five dummy placeholder pages</tooltip>. The **NavBar** also comes with a placeholder slot for your custom Logo.
-
----
-
-## Guide to MarkBind
-
-To see the capability of MarkBind in action, feel free to take a look at some of the websites built using MarkBind on our <a href="https://markbind.org/showcase.html" target="_blank">Showcase</a> page.
-
-For more information on how to work with MarkBind sites and to add content, refer to our comprehensive <a href="https://markbind.org/userGuide/gettingStarted.html" target="_blank">User Guide</a>.
-
-<box type="info">
-
-If you are interested in contributing to MarkBind, you can refer to our <a href="https://markbind.org/devdocs/devGuide/devGuide.html" target="_blank">Developer Guide</a> as well!
+Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
 
 </box>
 
-<panel header="**Good starting points in our User Guide**" expanded no-close>
+Throughout the new testament, forgiveness is a prominent theme. While God was portrayed as angry, at times unforgiving, Jesus sought to bring a more "correct" image of God to us: that God is forgiving, and is waiting for us to come back to him. Indeed, the only sin that He does not forgive is the refusal to repent and accept His forgiveness.
 
-##### **User Guide: Authoring Contents**
+Being a Christian does not stop at just learning about Christ, but also about following His footsteps.
 
-> Learn about the variety of syntax schemes, formats, and custom MarkBind components that you can use in your MarkBind site.
+<box type="tip">
 
-More info in: _<a href="https://markbind.org/userGuide/authoringContents.html" target="_blank">User Guide → Authoring Contents</a>_
+**Matthew 17:3-4**
 
----
+Take heed to yourselves; if your brother sins, rebuke him, and if he repents, forgive him; 4 and if he sins against you seven times in the day, and turns to you seven times, and says, 'I repent,' you must forgive him.
 
-##### **User Guide: Working with Sites**
+</box>
 
-> Learn how to modify site properties, apply themes, and enable/disable plugins for your MarkBind site.
+We all have sinned, multiple times. And everytime we repent, God forgives. So in the same way, we must forgive others everytime they are apologetic. In fact, this is encapsulated in the "our Father" prayer that all of us recite:
 
-More info in: _<a href="https://markbind.org/userGuide/workingWithSites.html" target="_blank">User Guide → Working with Sites</a>_
-
----
-
-##### **User Guide: Full Syntax Reference**
-
-> Refer to our Full Syntax Reference page to find a specific feature or component that you want to use in your MarkBind site.
-
-More info in: _<a href="https://markbind.org/userGuide/fullSyntaxReference.html" target="_blank">User Guide → Full Syntax Reference</a>_
-
-</panel>
-
----
+> And forgive us our trespasses, as we forgive those who trespass against us.

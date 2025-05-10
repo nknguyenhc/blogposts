@@ -5,8 +5,7 @@
 <header sticky>
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><img src="/icon.svg" height="40"></a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
+    <li><a href="{{baseUrl}}/contents/catholic-church-history" class="nav-link">Catholic Church History</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -23,8 +22,8 @@
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
+* **Catholic Church History**
+  * [Vietnamese Martyrs]({{ baseUrl }}/contents/catholic-church-history/vietnamese-martyrs)
       </site-nav>
     </div>
   </nav>
