@@ -17,7 +17,7 @@ Therefore I tell you, every sin and blasphemy will be forgiven men, but the blas
 
 </box>
 
-Throughout the new testament, forgiveness is a prominent theme. While God was portrayed as angry, at times unforgiving, Jesus sought to bring a more "correct" image of God to us: that God is forgiving, and is waiting for us to come back to him. Indeed, the only sin that He does not forgive is the refusal to repent and accept His forgiveness.
+Throughout the new testament, forgiveness is a prominent theme. In the old testament, while God was portrayed as angry, at times unforgiving, Jesus sought to bring a more "correct" image of God to us: that God is forgiving, and is waiting for us to come back to him. Indeed, the only sin that He does not forgive is the refusal to repent and accept His forgiveness.
 
 Being a Christian does not stop at just learning about Christ, but also about following His footsteps.
 
