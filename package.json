@@ -7,7 +7,9 @@
     "build": "markbind build",
     "serve": "markbind serve",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d _site --cname catholic.nknguyenhc.net"
+    "deploy": "gh-pages -d _site --cname catholic.nknguyenhc.net",
+    "prettier:check": "prettier --config .prettierrc --check .",
+    "prettier:fix": "prettier --config .prettierrc --write ."
   },
   "keywords": [],
   "author": "",
@@ -15,6 +17,7 @@
   "description": "My exploration of the Catholic faith",
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "markbind-cli": "^5.6.0"
+    "markbind-cli": "^5.6.0",
+    "prettier": "^3.5.3"
   }
 }
