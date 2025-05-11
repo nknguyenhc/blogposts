@@ -32,3 +32,7 @@ Take heed to yourselves; if your brother sins, rebuke him, and if he repents, fo
 We all have sinned, multiple times. And everytime we repent, God forgives. So in the same way, we must forgive others everytime they are apologetic. In fact, this is encapsulated in the "our Father" prayer that all of us recite:
 
 > And forgive us our trespasses, as we forgive those who trespass against us.
+
+## Who am I
+
+Refer to my [portfolio website](https://nknguyenhc.net)
