@@ -6,6 +6,8 @@
 
 <br>
 
+<pic src="/assets/vietnamese-martyrs/vietnamese-martyrs.jpg" style="margin: auto; display: block; width: max(70%, 400px)"></pic>
+
 <question type="checkbox">
   The Vietnamese Catholic martyrs were jailed and executed because of:
 
@@ -27,6 +29,14 @@
 </question>
 
 ## Overview
+
+<box type="tip">
+
+**Matthew 10:35-38** - For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law; and a man's foes will be those of his own household. He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me is not worthy of me; and he who does not take his cross and follow me is not worthy of me.
+
+</box>
+
+This is a passage that is probably one of the most difficult to understand. But we can easily find evidence of His word in the stories of the martyrs: many of them lose ties with their family, friends, neighbours, etc, even their own life. Following Christ means prioritising God over anything else.
 
 Over the course of the history, many Vietnamese Catholics were jailed and tried for their faith. Many refused to give up their faith, and as a result, were executed. Estimates show that there are in total around 100,000 Catholics executed. 117 out of them were canonized as saints. [[ref]](https://hdgmvietnam.com/chi-tiet/tom-luoc-tieu-su-cac-thanh-tu-dao-viet-nam-31171)
 
@@ -85,6 +95,8 @@ French attacked Vietnam in 1858. In 1862, the king of Vietnam, Tu Duc, signed a 
 
 ### (Paul) Le Van Loc
 
+<pic src="/assets/vietnamese-martyrs/paul-le-van-loc.jpeg" style="margin: auto; display: block; width: max(30%, 300px)"></pic>
+
 <box type="tip">
 
 **James 1:12** - Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love him. [[ref]](https://hdgmvietnam.com/chi-tiet/thanh-phaolo-le-van-loc-tu-dao-ngay-13-thang-2-nam-1859-48937)
@@ -102,6 +114,8 @@ In 1858, while he was hiding in an ex-seminarian house, he was caught and impris
 The French attacked Gia Dinh (Saigon) in 1859. The king's subordinates pressured the king to execute Loc. Without trial, Loc was beheaded.
 
 ### (Augustine) Phan Viet Huy
+
+<pic src="/assets/vietnamese-martyrs/augustine-phan-viet-huy.jpg" style="margin: auto; display: block; width: max(30%, 300px)"></pic>
 
 <box type="tip">
 
@@ -125,6 +139,8 @@ In summer 1839, when the king Minh Mang was visiting Nam Dinh, he declared his f
 
 ### (Anton) Nguyen Tien Dich
 
+<pic src="/assets/vietnamese-martyrs/anton-nguyen-tien-dich.jpeg" style="margin: auto; display: block; width: max(30%, 300px)"></pic>
+
 <box type="tip">
 
 **John 12:24** - Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit. [[ref]](https://hdgmvietnam.com/chi-tiet/thanh-anton-nguyen-tien-dich-tu-dao-ngay-12-thang-8-nam-1838-33043)
@@ -144,7 +160,15 @@ The head of state agreed, offering Tien Dich to step over the cross to be pardon
 
 In jail, whenever he received food from his family, he shared with his fellow inmates, regardless of religion. Tien Dich was executed in 1838 by beheading.
 
+<pic src="/assets/vietnamese-martyrs/nguyen-tien-dich-execution.jpg" width="90%">
+
+Execution of Michael Nguyen Huy My, Anton Nguyen Tien Dich, and James Do Mai Nam
+
+</pic>
+
 ### (Andrew) Tran An Dung (Lac)
+
+<pic src="/assets/vietnamese-martyrs/andrew-tran-an-dung-lac.jpeg" style="margin: auto; display: block; width: max(30%, 300px)"></pic>
 
 <box type="tip">
 
@@ -239,19 +263,19 @@ The Bible is banned. "A North Korean resident and his entire family was arrested
 
 The Kim family is portrayed as gods. They copied parts of the Bible to create their story and build the cult of personality. [[ref]](https://www.dailynk.com/english/christian-missionary-recounts-esca/) Christianity directly challenges their story, and is hence viewed as a threat.
 
-School children are taught to expose their parents’ secrets. Parents have to hide their faith from their children. [[ref]](https://www.dailynk.com/english/north-korea-underground-church-mem/)
+School children are taught to expose their parents' secrets. Parents have to hide their faith from their children. [[ref]](https://www.dailynk.com/english/north-korea-underground-church-mem/)
 
 ### Iran
 
 For some social context of Iran:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VAQRCCWsi-s?si=m8FZYF5cZsJJs3_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VAQRCCWsi-s?si=m8FZYF5cZsJJs3_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block"></iframe>
 
 - Iran is ruled by an Islamic government, i.e., the head of the state is an Islamic cleric.
 - Wearing the hijab (head cover) is compulsory. It is a crime to not wear a hijab going outside.
 - Islamic clerics and government officials are ignorant to human rights violations that are the result of the hijab law.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V5ERFAOw9z0?si=xi6x3XD7yXEpc_b7&amp;start=1297" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5ERFAOw9z0?si=xi6x3XD7yXEpc_b7&amp;start=1297" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block"></iframe>
 
 Christianity is allowed, but is frowned upon, and christians are isolated. Christians run into troubles when they express their faith. Life is impossible for christians. They lose access to education, jobs, and even people around them.
 
