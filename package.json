@@ -6,13 +6,15 @@
     "init": "markbind init",
     "build": "markbind build",
     "serve": "markbind serve",
-    "deploy": "markbind deploy"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d _site --cname catholic.nknguyenhc.net"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "My exploration of the Catholic faith",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "markbind-cli": "^5.6.0"
   }
 }
