@@ -23,4 +23,9 @@ jobs:
         run: npm install
 
       - name: Deploy to Github Pages
-        run: npm run deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "nknguyenhc@gmail.com"
+          git config --global user.name "Nguyen Khoi Nguyen"
+          npm run deploy -- --repo=https://x-access-token:$GITHUB_TOKEN@github.com/nknguyenhc/blogposts.git
