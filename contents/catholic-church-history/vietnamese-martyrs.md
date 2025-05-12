@@ -83,7 +83,7 @@ Fourth king of the monarchy, Tu Duc, was the most aggressive towards Catholics, 
 - Foreign priests were executed without trial
 - Vietnamese Catholics were allowed to step over the cross to avoid execution
 
-When the French attacked, many Catholics joined forces with the French, bolstering his claim that Catholics were working for the French.
+When the French attacked, some Catholics joined forces with the French, bolstering his claim that Catholics were working for the French. However, many Catholics signed up to join the Vietnamese military to fight against the French.
 
 French battleships approached the shores of Da Nang in 1857, and war broke out in 1858. During this time (1857 - 1862), the Nguyen dynasty was the most active in hunting down and persecuting Vietnamese Catholics.
 
@@ -182,11 +182,11 @@ Dung was born in 1795 in Bac Ninh. He was considered smart as he managed to lear
 
 After 3 years of seminary, he was ordained priest in 1823. He regularly aided the poor and the disabled. In many occassions, he did not tag along his seminarians to avoid them being arrested. He was active throughout his ministry.
 
-Dung was arrested and tried in front of the head of state. A Catholic bribed the head of district for help with begging for Dung's release. The head of district then told the head of state that Dung was his uncle, and Dung was released. Dung Changed his name to "Lac" to change his identity and avoid being arrested again.
+In 1835, Dung was arrested and tried in front of the head of state. A Catholic bribed the head of district for help with begging for Dung's release. The head of district then told the head of state that Dung was his uncle, and Dung was released. Dung Changed his name to "Lac" to change his identity and avoid being arrested again.
 
-Dung was arrested for the second time with another priest (father Thi) when they were holding confession for each other. Catholics bribed to get them released.
+In 1839, Dung was arrested for the second time with another priest (father Thi) when they were holding confession for each other. Catholics bribed to get them released.
 
-Dung was arrested the third time, together with father Thi. The head of district said, he did not want to arrest Lac, but people presented you to me, so he had no choice. Lac said, if he did not mean to arrest, then he should release him. The head of district said, people have known that Lac was a Catholic priest, he did not dare to do otherwise. This was hinting at bribes to ransom Lac out of prison.
+Again 1839, Dung was arrested the third time, together with father Thi. The head of district said, he did not want to arrest Lac, but people presented you to me, so he had no choice. Lac said, if he did not mean to arrest, then he should release him. The head of district said, people have known that Lac was a Catholic priest, he did not dare to do otherwise. This was hinting at bribes to ransom Lac out of prison.
 
 A Catholic wanted to sell his fortune to afford his release. "If you become a martyr, you will go to heaven by yourself, but if you are still here, we Catholics can still rely on you." But Lac told them, "This is the third time I am arrested, I shall follow God's will, do not bother paying ransom for me."
 
@@ -204,7 +204,7 @@ They both received last Eucharist from another priest (father Tran). Lac was beh
 
 In 1945, Ho Chi Minh declared Vietnam an independent state.
 
-The French came back shortly after. Vietnam declared war on France in 1946. The war ended in 1954 with the Geneva accords, which splitted the country into 2 halves, both were to hold democratic elections to decide their own leader, with the communists governing the North.
+The French came back shortly after. Vietnam declared war on France in 1946. The war ended in 1954 with the Geneva accords, which split the country into 2 halves, both were to hold democratic elections to decide their own leader, with the communists governing the North.
 
 Thadeus Le Huu Tu was appointed bishop in Ninh Binh in 1945, which received congratulations from Ho Chi Minh. Ho Chi Minh expressed his trust in Huu Tu that he would guide Catholics into contributing to the independence of Vietnam. His diocese became a place of shelter for many during the war. [[ref]](https://phatdiem.org/cac-duc-giam-muc-tien-nhiem/chan-dung-tieu-su-duc-cha-anselmo-tadeo-le-huu-tu.html)
 
@@ -235,7 +235,7 @@ For Catholics, many churches, schools and seminaries were disbanded as a result.
 
 Upon reunification, the Vietnamese government implemented re-education camps, where those affiliated with the South Vietnamese government were jailed, to be "re-educated" about the communist and nationalist ideologies. Many prominent figures in the past South Vietnamese government and soldiers were sent to re-education camps.
 
-Many churches were destroyed upon reunification. Religious schools were totally banned. Many then-Catholic schools were reused by the government. The government also imposed strict controls of religious facilities and activities. [[ref]](https://lawnet.vn/vb/Nghi-quyet-297-CP-chinh-sach-ton-giao-454B.html) This includes Catholic churches, nurseries, and the appointment of bishops.
+Many churches were destroyed upon reunification. Religious schools were totally banned. Many then-Catholic schools were confiscated and reused by the government. The government also imposed strict controls of religious facilities and activities. [[ref]](https://lawnet.vn/vb/Nghi-quyet-297-CP-chinh-sach-ton-giao-454B.html) This includes Catholic churches, nurseries, and the appointment of bishops.
 
 The Vietnamese government interfered with many Catholic activities.
 
@@ -281,4 +281,4 @@ Christianity is allowed, but is frowned upon, and christians are isolated. Chris
 
 Evangelization is banned. Those that evangelize are accused of spying for other countries. [[ref]](https://www.ohchr.org/en/press-releases/2018/02/iran-must-ensure-rights-christian-minority-and-fair-trial-accused-un-experts?LangID=E&NewsID=22629)
 
-In FIDH's report on death penalty in Iran [[ref]](https://www.ohchr.org/en/press-releases/2018/02/iran-must-ensure-rights-christian-minority-and-fair-trial-accused-un-experts?LangID=E&NewsID=22629), page 33, under Iran laws, apostasy, here means converting from Islam to Christianity, is punishable by death.
+In FIDH's report on death penalty in Iran [[ref]](https://www.fidh.org/IMG/pdf/Rapport_Iran_final.pdf), page 33, under Iran laws, apostasy, here means converting from Islam to Christianity, is punishable by death.
