@@ -269,13 +269,13 @@ School children are taught to expose their parents' secrets. Parents have to hid
 
 For some social context of Iran:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VAQRCCWsi-s?si=m8FZYF5cZsJJs3_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block"></iframe>
+<iframe src="https://www.youtube.com/embed/VAQRCCWsi-s?si=m8FZYF5cZsJJs3_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block; width: min(560px, 96vw); height: min(315px, 54vw)"></iframe>
 
 - Iran is ruled by an Islamic government, i.e., the head of the state is an Islamic cleric.
 - Wearing the hijab (head cover) is compulsory. It is a crime to not wear a hijab going outside.
 - Islamic clerics and government officials are ignorant to human rights violations that are the result of the hijab law.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V5ERFAOw9z0?si=xi6x3XD7yXEpc_b7&amp;start=1297" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block"></iframe>
+<iframe src="https://www.youtube.com/embed/V5ERFAOw9z0?si=xi6x3XD7yXEpc_b7&amp;start=1297" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto; display: block; width: min(560px, 96vw); height: min(315px, 54vw)"></iframe>
 
 Christianity is allowed, but is frowned upon, and christians are isolated. Christians run into troubles when they express their faith. Life is impossible for christians. They lose access to education, jobs, and even people around them.
 
