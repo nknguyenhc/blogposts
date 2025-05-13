@@ -30,6 +30,8 @@
 
 ## Overview
 
+++[**13 May 2025 slides**](https://docs.google.com/presentation/d/1ePlQUKJ1Mg66LBnxn8ovaNO9RfUWsz5RxSdi6_vuEK0/edit?usp=sharing)++
+
 <box type="tip">
 
 **Matthew 10:35-38** - For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law; and a man's foes will be those of his own household. He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me is not worthy of me; and he who does not take his cross and follow me is not worthy of me.

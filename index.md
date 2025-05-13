@@ -25,7 +25,7 @@ Being a Christian does not stop at just learning about Christ, but also about fo
 
 **Matthew 17:3-4**
 
-Take heed to yourselves; if your brother sins, rebuke him, and if he repents, forgive him; 4 and if he sins against you seven times in the day, and turns to you seven times, and says, 'I repent,' you must forgive him.
+Take heed to yourselves; if your brother sins, rebuke him, and if he repents, forgive him; and if he sins against you seven times in the day, and turns to you seven times, and says, 'I repent,' you must forgive him.
 
 </box>
 
