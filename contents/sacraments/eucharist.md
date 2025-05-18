@@ -50,7 +50,7 @@ They abstain from the Eucharist and from prayer, because they confess not the Eu
 
 </box>
 
-As we will see in [Jesus' emphasis on the importance of the Eucharist](#jesus-declaration-and-emphasis-of-the-eucharist), the Eucharist is essential for eternal life, and that we as Christians should believe in the real presence of Christ in the Eucharist, and take the Eucharist.
+As we will see in [Jesus' emphasis on the importance of the Eucharist](#jesus-declaration-and-emphasis-of-the-eucharist), the Eucharist is essential for eternal life, and that we as Christians should believe in the real presence of Christ in the Eucharist, and receive the Eucharist.
 
 And in fact, the Eucharist can only be carried out be a properly ordained priest, as explained in the same letter by St Ignatius of Antioch, chapter 8:
 
@@ -74,7 +74,7 @@ The Eucharist is not simply bread and wine that are symbolic of Christ, but are 
 
 ## Bible - is it important?
 
-So, you might be wondering: does it make a difference whether it is truly the body and blood of Christ, or is it just symbolic? Does it matter which one I believe? Well, it does! Jesus have told us that for one to obtain eternal life, it is important to take his body and blood. Furthermore, our belief in the true presence affects [how we treat the Eucharist](#preparation-for-the-eucharist).
+So, you might be wondering: does it make a difference whether it is truly the body and blood of Christ, or is it just symbolic? Does it matter which one I believe? Well, it does! Jesus have told us that for one to obtain eternal life, it is important to receive his body and blood. Furthermore, our belief in the true presence affects [how we treat the Eucharist](#preparation-for-the-eucharist).
 
 ### Jesus' declaration and emphasis of the Eucharist
 
@@ -112,7 +112,7 @@ So Jesus said to them, "Truly, truly, I say to you, unless you eat the flesh of 
 
 </box>
 
-We see that Jesus reiterated his point multiple times, that we are to eat His flesh and drink His blood. **It is not optional to believe, nor optional to take the Eucharist, it is _necessary_ for eternal life.**
+We see that Jesus reiterated his point multiple times, that we are to eat His flesh and drink His blood. **It is not optional to believe, nor optional to receive the Eucharist, it is _necessary_ for eternal life.**
 
 So, you might be wondering, why can we be so sure that his word is to be taken literally, and not in any figurative meaning? Well, if we look at the original text in Greek, we see that, the word used for "flesh" is `sarx`, and the word used for "body" is `soma`. These two words are to be understood in their literal sense, as St Paul has used them interchangeably in many other instances in the Bible to mean the literal "flesh". [[ref]](https://www.catholic.com/magazine/online-edition/if-you-eat-my-flesh-you-eat-my-body)
 
@@ -144,7 +144,7 @@ It is the spirit that gives life, the flesh is of no avail; the words that I hav
 
 </box>
 
-Did He invalidate what He had just taught? No! The word "flesh" here refers to the fallen human nature, not Jesus' flesh. In other words, it is the spirit that gives life, not the flesh of human. That is different from the flesh of Jesus which we must take to gain eternal life.
+Did He invalidate what He had just taught? No! The word "flesh" here refers to the fallen human nature, not Jesus' flesh. In other words, it is the spirit that gives life, not the flesh of human. That is different from the flesh of Jesus which we must receive to gain eternal life.
 
 <box type="tip">
 
