@@ -10,9 +10,9 @@
 
 <pic src="/assets/the-eucharist-and-transubstantiation/the-eucharist.jpg" style="margin: auto; display: block; width: min(70%, 300px)"></pic>
 
-**Transubstantiation**: the change by which the substance (though not the appearance) of the bread and wine in the Eucharist becomes Christ's real presence - that is, his body and blood [[ref]](https://www.britannica.com/topic/transubstantiation)
+**Transubstantiation**: the change by which the substance (though not the appearance) of the bread and wine in the Eucharist becomes Christ's real presence - that is, his body and blood. [[ref]](https://www.britannica.com/topic/transubstantiation)
 
-As Catholics, we believe that during the Eucharistic celebration, the bread truly becomes the body, and the substance truly becomes the blood; not symbolically, but the real body and blood.
+As Catholics, we believe that during the Eucharistic celebration, the bread truly becomes the body of Christ, and the substance truly becomes the blood of Christ; not symbolically, but the real body and blood of Christ.
 
 ## Bible origin
 
@@ -74,7 +74,7 @@ The Eucharist is not simply bread and wine that are symbolic of Christ, but are 
 
 ## Bible - is it important?
 
-So, you might be wondering: does it make a difference whether it is truly the body and blood of Christ, or is it just symbolic? Well, it does! Jesus have told us that for one to obtain eternal life, it is important to take his body and blood. Furthermore, our belief in the true presence affects [how we treat the Eucharist](#preparation-for-the-eucharist).
+So, you might be wondering: does it make a difference whether it is truly the body and blood of Christ, or is it just symbolic? Does it matter which one I believe? Well, it does! Jesus have told us that for one to obtain eternal life, it is important to take his body and blood. Furthermore, our belief in the true presence affects [how we treat the Eucharist](#preparation-for-the-eucharist).
 
 ### Jesus' declaration and emphasis of the Eucharist
 
@@ -82,7 +82,7 @@ So, you might be wondering: does it make a difference whether it is truly the bo
 Manna from heaven, during Moses' time
 </pic>
 
-Jesus has declared that He is the bread of life.
+When talking about the bread from heaven, Jesus has declared that He is the bread of life.
 
 <box type="tip">
 
@@ -134,6 +134,18 @@ Many of his disciples, when they heard it, said, "This is a hard saying; who can
 
 He explained, it would be even harder to believe it when the apostles would see Him "ascending where he was before", which means to rise from the dead and ascend to heaven. So, if we are believe in Jesus' resurrection and ascension to heaven, it should be easier for us to believe in the real presence of Christ in the Eucharist.
 
+Jesus then followed up with this statement:
+
+<box type="tip">
+
+**John 6:63**
+
+It is the spirit that gives life, the flesh is of no avail; the words that I have spoken to you are spirit and life.
+
+</box>
+
+Did He invalidate what He had just taught? No! The word "flesh" here refers to the fallen human nature, not Jesus' flesh. In other words, it is the spirit that gives life, not the flesh of human. That is different from the flesh of Jesus which we must take to gain eternal life.
+
 <box type="tip">
 
 **John 6:66-67**
@@ -142,7 +154,7 @@ After this many of his disciples drew back and no longer went about with him. Je
 
 </box>
 
-Many disciples stopped following Jesus because they could not believe that Jesus could give his flesh and blood for us to consume. If you do not believe and do not want the Eucharist, you can leave, but Jesus will not change this teaching.
+Many disciples stopped following Jesus because they could not believe that Jesus could give his flesh and blood for us to consume. If you do not believe and do not want the Eucharist, you can leave. But Jesus will not change this teaching.
 
 ## Preparation for the Eucharist
 
@@ -175,9 +187,9 @@ When you meet together, it is not the Lord's supper that you eat. For in eating,
 
 </box>
 
-At the point of writing, there was a tradition where the people ate and drank before receiving the Eucharist, which St Paul was warning against. While from the Bible, it is not a strict requirement, one should refrain from feasting, to prepare oneself to receive Christ's body and blood that nourishes the soul. [[ref]](https://www.catholic.com/qa/jesus-gave-the-eucharist-after-everybody-had-eaten-so-why-do-catholics-have-to-fast-before-mass)
+At the point of writing, there was a tradition where the people ate and drank before receiving the Eucharist, which St Paul was warning against. While from the Bible it is not a strict requirement, one should refrain from feasting before mass, to prepare oneself to receive Christ's body and blood that nourishes the soul. [[ref]](https://www.catholic.com/qa/jesus-gave-the-eucharist-after-everybody-had-eaten-so-why-do-catholics-have-to-fast-before-mass)
 
-In the early days of the church, there was no recommendation as to how much to fast. In 1917, fasting was mandated from the midnight before the mass. In 1957, the fasting was reduced to 3 hours. In 1964, the fasting was reduced to one hour. [[ref]](https://catholictimescolumbus.org/news/father-paul-keller-op-s-t-d/can-i-eat-before-mass) As of current day, Catholics are required to fast at least one hour before the Eucharist, as specified in the 1983 Code of Canon Law. [[ref]](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann879-958_en.html#Art._1.)
+In the early days of the church, there was no recommendation as to how much to fast. In 1917, the fasting was mandated to being from the midnight before the mass. In 1957, the fasting was reduced to 3 hours. In 1964, the fasting was reduced to one hour. [[ref]](https://catholictimescolumbus.org/news/father-paul-keller-op-s-t-d/can-i-eat-before-mass) As of current day, Catholics are required to fast at least one hour before the Eucharist, as specified in the 1983 Code of Canon Law. [[ref]](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann879-958_en.html#Art._1.)
 
 > A person who is to receive the Most Holy Eucharist is to abstain for at least one hour before holy communion from any food and drink, except for only water and medicine.
 
