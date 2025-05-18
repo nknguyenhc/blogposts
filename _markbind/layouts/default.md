@@ -6,6 +6,7 @@
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><img src="/icon.svg" height="40"></a>
     <li><a href="{{baseUrl}}/contents/catholic-church-history/overview.html" class="nav-link">Catholic Church History</a></li>
+    <li><a href="{{baseUrl}}/contents/sacraments/overview.html" class="nav-link">Sacraments</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -25,6 +26,9 @@
 * **Catholic Church History**
   * [Overview]({{ baseUrl }}/contents/catholic-church-history/overview.html)
   * [Vietnamese Martyrs]({{ baseUrl }}/contents/catholic-church-history/vietnamese-martyrs.html)
+* **Sacraments**
+  * [Overview]({{ baseUrl }}/contents/sacraments/overview.html)
+  * [The Eucharist & Transubstantiation]({{ baseUrl }}/contents/sacraments/eucharist.html)
       </site-nav>
     </div>
   </nav>
