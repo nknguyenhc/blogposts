@@ -8,6 +8,8 @@
 
 ## Overview
 
+++[**20 May 2025 slides**](https://docs.google.com/presentation/d/1J1lCIS7Qd3DEd48q4SYSnugLP82_uAbFBQ1MjlE_nZ0/edit?usp=sharing)++
+
 <pic src="/assets/the-eucharist-and-transubstantiation/the-eucharist.jpg" style="margin: auto; display: block; width: min(70%, 300px)"></pic>
 
 **Transubstantiation**: the change by which the substance (though not the appearance) of the bread and wine in the Eucharist becomes Christ's real presence - that is, his body and blood. [[ref]](https://www.britannica.com/topic/transubstantiation)
