@@ -40,6 +40,30 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/sacraments/eucharist.md",
+      "title": "The Eucharist & Transubstantiation",
+      "headings": {
+        "overview": "Overview",
+        "bible-origin": "Bible origin",
+        "saint-s-testimonies": "Saint's testimonies",
+        "bible-is-it-important": "Bible - is it important?",
+        "jesus-declaration-and-emphasis-of-the-eucharist": "Jesus' declaration and emphasis of the Eucharist",
+        "this-saying-is-hard": "This saying is hard",
+        "preparation-for-the-eucharist": "Preparation for the Eucharist",
+        "final-notes": "Final notes"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/sacraments/overview.md",
+      "title": "Sacraments",
+      "headings": {
+        "overview": "Overview",
+        "pages": "Pages"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "Catholic Blog Posts",
       "headings": {
