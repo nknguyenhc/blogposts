@@ -20,7 +20,7 @@ Among which, **divinely revealed truths and teachings on faith and morals are in
 
 The doctrine of infallibility does not stop at the pope, but also extends to the ecumenical councils and the bishops. However, bishops cannot declare doctrines on their own, rather, only when they are in union with the Catholic Church that their words can be taken to be infallible.
 
-This is clearly defined in the congregation for the doctrine of the faith, canon 750, [[ref]](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_1998_professio-fidei_en.html)
+This is clearly defined in [the Congregation for the Doctrine of the Faith, canon 750](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_1998_professio-fidei_en.html)
 
 > § 1. Those things are to be believed by divine and catholic faith which are contained in the word of God as it has been written or handed down by tradition, that is, in the single deposit of faith entrusted to the Church, and which are at the same time proposed as divinely revealed either by the solemn Magisterium of the Church, or by its ordinary and universal Magisterium, which in fact is manifested by the common adherence of Christ’s faithful under the guidance of the sacred Magisterium. All are therefore bound to avoid any contrary doctrines.
 >
@@ -44,7 +44,7 @@ Popes are by no means perfect in their personal lives. We see that even Peter wa
 
 #### Pope Stephen VI
 
-Formosus was a bishop in Porto-Santa Rufina (a region in Italy), and was sent as a legate in Bulgaria. He was so successful that Bulgarian ruler Boris I asked the then-pope to appoint Formosus as the bishop of Bulgaria. The request was not accepted as that would violate fifteenth canon of the Second Council of Nicaea, canon 15. [[ref]](https://www.newadvent.org/fathers/3819.htm)
+Formosus was a bishop in Porto-Santa Rufina (a region in Italy), and was sent as a legate in Bulgaria. He was so successful that Bulgarian ruler Boris I asked the then-pope to appoint Formosus as the bishop of Bulgaria. The request was not accepted as that would violate fifteenth canon of the [Second Council of Nicaea](https://www.newadvent.org/fathers/3819.htm).
 
 Afterwards, the new pope John VIII excommunicated with Formosus, accusing him of corrupting the minds of Bulgarians that they would not accept any other bishop. According to rumours, Formosus begged for forgiveness, in exchange he would forgo his bishop office and live as a layman. Formosus then became the next pope.
 
@@ -58,7 +58,7 @@ He led a "depraved" and "worldly" life, where his Lateran Palace was described a
 
 He was also a prince of Rome. His enemies used this to blacken his reputation.
 
-In Synod of Rome 963 [[ref]](https://www.newadvent.org/cathen/08426b.htm), John XII was accused of sacrilege, simony, perjury, murder, adultery, and incest, and was summoned in writing to defend himself.
+In Synod of Rome 963, John XII was accused of sacrilege, simony, perjury, murder, adultery, and incest, and was summoned in writing to defend himself. [[ref]](https://www.newadvent.org/cathen/08426b.htm)
 
 According to rumours, John died during an act of adultery.
 
@@ -253,7 +253,7 @@ Simon, Simon, behold, Satan demanded to have you, that he might sift you like wh
 
 </box>
 
-Sifting like wheat suggesting that Peter will go through trials, and under the hands of Satan, Peter would be helpless. But his faith would never fail, suggesting that his teachings on faith topics will be free from error. And Peter is the one to "strengthen your brethen", suggesting that Peter holds the ultimate authority to determine what is right and what is wrong, regardingly the matter of church teachings.
+Sifting like wheat suggesting that Peter will go through trials, and under the hands of Satan, Peter would be helpless. But his faith would never fail, suggesting that his teachings on faith topics will be free from error. And Peter is the one to "strengthen your brethren", suggesting that Peter holds the ultimate authority to determine what is right and what is wrong, regarding the matter of church teachings.
 
 ### Imperfect Peter
 
@@ -377,7 +377,7 @@ Many early church fathers acknowledged the special role and power that Peter hel
 
 <box type="tip">
 
-Prescription against Heretics, chapter 22 [[ref]](https://www.newadvent.org/fathers/0311.htm)
+[Prescription against Heretics](https://www.newadvent.org/fathers/0311.htm), chapter 22
 
 Was anything withheld from the knowledge of Peter, who is called the rock on which the church should be built, who also obtained the keys of the kingdom of heaven, with the power of loosing and binding in heaven and on earth?
 
@@ -387,7 +387,7 @@ The author acknowledged that because Peter was the "rock" and the holder of the 
 
 <box type="tip">
 
-Tertullian, on Modesty, chapter 21 [[ref]](https://www.newadvent.org/fathers/0407.htm)
+[Tertullian, on Modesty](https://www.newadvent.org/fathers/0407.htm), chapter 21
 
 If, because the Lord has said to Peter, Upon this rock will I build My Church, to you have I given the keys of the heavenly kingdom; or, Whatsoever you shall have bound or loosed in earth, shall be bound or loosed in the heavens, you therefore presume that the power of binding and loosing has derived to you, that is, to every Church akin to Peter, ==what sort of man are you, subverting and wholly changing the manifest intention of the Lord==, conferring (as that intention did) this (gift) personally upon Peter?
 
@@ -397,7 +397,7 @@ It is going against the bible when one denies the authority that Peter held, bec
 
 <box type="tip">
 
-Epistle of Clement to James, Chapter I [[ref]](https://www.tertullian.org/fathers2/ANF-08/anf08-43.htm)
+[Epistle of Clement to James](https://www.tertullian.org/fathers2/ANF-08/anf08-43.htm), Chapter I
 
 Be it known to you, my lord, that ==Simon, who, for the sake of the true faith, and the most sure foundation of his doctrine, was set apart to be the foundation of the Church==, and for this end was by Jesus Himself, with His truthful mouth, named Peter, the first-fruits of our Lord, ==the first of the apostles==
 
@@ -451,7 +451,7 @@ The authority of the councils naturally follows the authority of the magisterium
 
 Yes, the pope did not attend any ecumenical council in the first millenial. However, the pope still has to approve of the works of the council in order for it to be declared ecumenical. In each council, the decree could be made by the council as a whole, and does not need to be made specifically by the pope.
 
-There are instances where the council is not declared ecumenical because of the pope's final say. In the second council of Ephesus, all bishops agreed on a heresy, but only the pope rejected the decision. The council was therefore declared not ecumenical. [[ref]](https://www.newadvent.org/cathen/05495a.htm)
+There are instances where the council is not declared ecumenical because of the pope's final say. In [the second council of Ephesus](https://www.newadvent.org/cathen/05495a.htm), all bishops agreed on a heresy, but only the pope rejected the decision. The council was therefore declared not ecumenical.
 
 The council involved violence, with many opponents of Monophysitism being excommunicated from the council. (St) Pope Leo absolved all those condemned, and excommunicated all those who took part in the council.
 
