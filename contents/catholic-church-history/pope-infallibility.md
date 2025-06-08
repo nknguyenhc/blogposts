@@ -18,7 +18,13 @@ There are three kinds of teaching by the Catholic Church:
 
 Among which, **divinely revealed truths and teachings on faith and morals are infallible**.
 
-The doctrine of infallibility does not stop at the pope, but also extends to the ecumenical councils and the bishops. However, bishops cannot declare doctrines on their own, rather, only when they speak of the doctrines declared by the Catholic Church then their words can be taken to be infallible.
+The doctrine of infallibility does not stop at the pope, but also extends to the ecumenical councils and the bishops. However, bishops cannot declare doctrines on their own, rather, only when they are in union with the Catholic Church that their words can be taken to be infallible.
+
+This is clearly defined in the congregation for the doctrine of the faith, canon 750, [[ref]](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_1998_professio-fidei_en.html)
+
+> § 1. Those things are to be believed by divine and catholic faith which are contained in the word of God as it has been written or handed down by tradition, that is, in the single deposit of faith entrusted to the Church, and which are at the same time proposed as divinely revealed either by the solemn Magisterium of the Church, or by its ordinary and universal Magisterium, which in fact is manifested by the common adherence of Christ’s faithful under the guidance of the sacred Magisterium. All are therefore bound to avoid any contrary doctrines.
+>
+> § 2. Furthermore, each and everything set forth definitively by the Magisterium of the Church regarding teaching on faith and morals must be firmly accepted and held; namely, those things required for the holy keeping and faithful exposition of the deposit of faith; therefore, anyone who rejects propositions which are to be held definitively sets himself against the teaching of the Catholic Church.
 
 One question that one might have is,
 
@@ -202,6 +208,16 @@ You are those who have continued with me in my trials; as my Father appointed a 
 
 At the very beginning of the Catholic Church, the power to teach authoritatively does not stop at the head of the church, but also applies to the apostles.
 
+Jesus has promised to them the gift of the Holy Spirit, which protected them against doctrinal errors, and revealed to them all they need to know to preach the Gospel.
+
+<box type="tip">
+
+**John 14, 16-17, 26**
+
+And I will pray the Father, and he will give you another Counselor, to be with you for ever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you. ... But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your remembrance all that I have said to you.
+
+</box>
+
 ## Peter
 
 So then, what is so special about Peter, if he is just one of the apostles who can teach infallibly? Well, the pope is the foundation of the Catholic Church, the sign of unity of the Church. Peter himself was the first pope.
@@ -221,7 +237,11 @@ And I tell you, you are Peter, and on ==this rock== I will build my church, and 
 Notice that Peter was similarly given the power to teach authoritatively, which was also given to the apostles later on. However, we have to notice, the key difference here is that, Peter was declared to be the "rock" and hold the "keys of the kingdom of heaven."
 
 - The rock is the foundation of the church, which indicates Peter's special role in the church.
-- Holding the key of the kingdom of heaven is the sign that Jesus trusted Peter to operate the Catholic Church when Jesus is gone. Similar to when the owner is not at home and gives the keys to the servant to act on his behalf, Peter is given this authority to act as the vicar of Christ.
+- Holding the keys of the kingdom of heaven is the sign that Jesus trusted Peter to operate the Catholic Church when Jesus is gone. Similar to when the owner is not at home and gives the keys to the servant to act on his behalf, Peter is given this authority to act as the vicar of Christ.
+
+This is in direct reference to **Isaiah 22:21-22**,
+
+> I will clothe him with your robe, and will bind your girdle on him, and will commit your authority to his hand; and he shall be a father to the inhabitants of Jerusalem and to the house of Judah. And I will place on his shoulder the key of the house of David; he shall open, and none shall shut; and he shall shut, and none shall open.
 
 This power is special, in reality, it is to decide whether a council is ecumenical. Peter holds a special position to ensure that the Catholic Church does not sway away from the truth. In fact, Jesus once again singled out Peter in the upper room during the last supper,
 
