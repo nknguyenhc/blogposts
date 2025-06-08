@@ -206,6 +206,8 @@ At the very beginning of the Catholic Church, the power to teach authoritatively
 
 So then, what is so special about Peter, if he is just one of the apostles who can teach infallibly? Well, the pope is the foundation of the Catholic Church, the sign of unity of the Church. Peter himself was the first pope.
 
+### Peter, the vicar of Christ
+
 Jesus has singled out Peter, and declared him the foundation of the Church.
 
 <box type="tip">
@@ -233,6 +235,8 @@ Simon, Simon, behold, Satan demanded to have you, that he might sift you like wh
 
 Sifting like wheat suggesting that Peter will go through trials, and under the hands of Satan, Peter would be helpless. But his faith would never fail, suggesting that his teachings on faith topics will be free from error. And Peter is the one to "strengthen your brethen", suggesting that Peter holds the ultimate authority to determine what is right and what is wrong, regardingly the matter of church teachings.
 
+### Imperfect Peter
+
 In fact, Peter was given the authority as the leader of the church even when he was not perfect. Even when Peter expressed so to Jesus. We see that when Jesus appeared to the apostles, Jesus again singled out Peter and instructed him to "feed my lambs,"
 
 <box type="tip">
@@ -257,16 +261,256 @@ Truly, truly, I say to you, when you were young, you girded yourself and walked 
 
 This was hinting at the fact that Peter would die in the name of Jesus, which was an ultimate sign of agape love.
 
+Peter believed in and preached about the salvation for the Gentiles, but he did not always practice as he preached. In fact, later into his apostolic life, he separated himself from the Gentiles, which was recounted in Paul's confrontation with Peter:
+
+<box type="tip">
+
+Paul's confrontation with Peter
+
+**Galatians 2:11-14**
+
+But when Cephas came to Antioch I opposed him to his face, because he stood condemned. For before certain men came from James, he ate with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party. And with him the rest of the Jews acted insincerely, so that even Barnabas was carried away by their insincerity. But when I saw that they were not straightforward about the truth of the gospel, I said to Cephas before them all, "If you, though a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?"
+
+</box>
+
+However, his actions in no way undermine his infallible teaching of salvation for the Gentiles.
+
 Popes are not necessarily the most virtuous people, who lead perfect lives. As we see in the case of Peter, God accepted an imperfect person to lead his flock.
 
 ## Peter's authority
+
+### Peter exercised his authority
+
+A question that comes to our mind that, did Peter ever exercise his authority as pope? Or was the authority of the pope only invented later on?
+
+In the book of the Acts, Peter was the first to declare the doctrine of salvation for the Gentiles. He was the first to be revealed to, by God, that the Gentiles should be received into the house of God too.
+
+<box type="tip">
+
+**Acts 10:11-15**
+
+[Peter] saw the heaven opened, and something descending, like a great sheet, let down by four corners upon the earth. In it were all kinds of animals and reptiles and birds of the air. And there came a voice to him, "Rise, Peter; kill and eat." But Peter said, "No, Lord; for I have never eaten anything that is common or unclean." And the voice came to him again a second time, "What God has cleansed, you must not call common."
+
+</box>
+
+This goes to show that, the Gentiles, by God's grace, can be cleansed too, and should not be excluded from the Church. And God sent an angel to Cornelius, a Gentile centurion, to tell him to invite Peter to his house. Cornelius was a God-fearing man who gave alms liberally and prayed constantly to God.
+
+<box type="tip">
+
+**Acts 10:3-5**
+
+About the ninth hour of the day he saw clearly in a vision an angel of God coming in and saying to him, "Cornelius." And he stared at him in terror, and said, "What is it, Lord?" And he said to him, "Your prayers and your alms have ascended as a memorial before God. And now send men to Joppa, and bring one Simon who is called Peter
+
+</box>
+
+Initially, Peter could not understand the vision in his dream. But when the servants and soldier sent by Cornelius to Peter, and Peter was invited to Cornelius' place, getting the opportunity to preach the Gospel, Peter finally understood the vision. Even though the Gentiles are not circumcised, which was necessary at the time according to the Jewish traditions, Peter preached the Good News to them and ordered them to be baptised in the name of Jesus. It was also at that time that the Gentiles also received the gift of speaking tongues and extolling God.
+
+<box type="tip">
+
+**Acts 10:45-48**
+
+And the believers from among the circumcised who came with Peter were amazed, because the gift of the Holy Spirit had been poured out even on the Gentiles. For they heard them speaking in tongues and extolling God. Then Peter declared, "Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?" And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
+
+</box>
+
+I recommend you to read Acts 10 in details to get the rest of the details.
+
+In fact, this was not something agreed upon among the apostles previously. And **Peter used his authority to assert that the Gentiles could be saved too**, explaining it to the other apostles.
+
+<box type="tip">
+
+**Acts 11:2-4,15-18**
+
+So when Peter went up to Jerusalem, the circumcision party criticized him, saying, "Why did you go to uncircumcised men and eat with them?" But Peter began and explained to them in order: ... As I began to speak, the Holy Spirit fell on them just as on us at the beginning. And I remembered the word of the Lord, how he said, 'John baptized with water, but you shall be baptized with the Holy Spirit.' If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could withstand God?" When they heard this they were silenced. And they glorified God, saying, "Then to the Gentiles also God has granted repentance unto life."
+
+</box>
+
+Peter was the one to declare the doctrine that the Gentiles could be saved! And in fact, the Gentiles, too, received the gift of the Holy Spirit to speak of God.
+
+Later on, in the book of Acts, another discussion popped up among the apostles, as for whether the Gentiles need to be circumcised. This was at the **council of Jerusalem**, where the apostles gathered to discuss the matter.
+
+<box type="warning">
+
+**Acts 15:1,5**
+
+But some men came down from Judea and were teaching the brethren, "Unless you are circumcised according to the custom of Moses, you cannot be saved." ... But some believers who belonged to the party of the Pharisees rose up, and said, "It is necessary to circumcise them, and to charge them to keep the law of Moses."
+
+</box>
+
+Many believed that one must be circumcised to be saved. Peter was the first one to stand up to assert that the Gentiles do not need to be circumcised in order to be saved.
+
+<box type="tip">
+
+**Acts 15:7-11**
+
+And after there had been much debate, Peter rose and said to them, "Brethren, you know that in the early days God made choice among you, that by my mouth the Gentiles should hear the word of the gospel and believe. And God who knows the heart bore witness to them, giving them the Holy Spirit just as he did to us; and he made no distinction between us and them, but cleansed their hearts by faith. Now therefore why do you make trial of God by putting a yoke upon the neck of the disciples which neither our fathers nor we have been able to bear? But we believe that we shall be saved through the grace of the Lord Jesus, just as they will."
+
+</box>
+
+The grace of God is the one saving the Gentiles, not circumcision. Some other apostles, Paul, Barnabas, James, then ratified Peter's view. The council eventually sent a letter to the Gentiles to assure them that they have no greater burden than keeping their works, implying that circumcision was not necessary. I would recommend you to read Acts 15 in full to get better details of the council of Jerusalem.
+
+In short, Peter had many times exercised his authority as the pope. He did not strictly contradict with the apostles' belief, in fact, that is not what the pope does most of the times, but rather, he swayed the Church into the correct direction.
+
+### Early Christian views towards Peter
+
+Many early church fathers acknowledged the special role and power that Peter held.
+
+<box type="tip">
+
+Prescription against Heretics, chapter 22 [[ref]](https://www.newadvent.org/fathers/0311.htm)
+
+Was anything withheld from the knowledge of Peter, who is called the rock on which the church should be built, who also obtained the keys of the kingdom of heaven, with the power of loosing and binding in heaven and on earth?
+
+</box>
+
+The author acknowledged that because Peter was the "rock" and the holder of the "keys of the kingdom of heaven," that he had the true knowledge of God, so that he could preach infallibly about God.
+
+<box type="tip">
+
+Tertullian, on Modesty, chapter 21 [[ref]](https://www.newadvent.org/fathers/0407.htm)
+
+If, because the Lord has said to Peter, Upon this rock will I build My Church, to you have I given the keys of the heavenly kingdom; or, Whatsoever you shall have bound or loosed in earth, shall be bound or loosed in the heavens, you therefore presume that the power of binding and loosing has derived to you, that is, to every Church akin to Peter, ==what sort of man are you, subverting and wholly changing the manifest intention of the Lord==, conferring (as that intention did) this (gift) personally upon Peter?
+
+</box>
+
+It is going against the bible when one denies the authority that Peter held, because Jesus himself conferred this gift personally upon Peter, not one time, but multiple times.
+
+<box type="tip">
+
+Epistle of Clement to James, Chapter I [[ref]](https://www.tertullian.org/fathers2/ANF-08/anf08-43.htm)
+
+Be it known to you, my lord, that ==Simon, who, for the sake of the true faith, and the most sure foundation of his doctrine, was set apart to be the foundation of the Church==, and for this end was by Jesus Himself, with His truthful mouth, named Peter, the first-fruits of our Lord, ==the first of the apostles==
+
+</box>
+
+There are more that I can quote. In the 200s - 300s, there were many giving testimony to Peter's power. I encourage you to read more [here](https://www.churchfathers.org/origins-of-peter-as-pope).
+
+### But Peter was just a fellow elder
+
+Peter called himself a fellow elder,
+
+<box type="tip">
+
+**1 Pet 5:1**
+
+So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ as well as a partaker in the glory that is to be revealed.
+
+</box>
+
+We have to read this in context to understand what he means. This is not Peter saying that he is not the leader of the church, but rather, he was teaching humility. Reading on,
+
+<box type="tip">
+
+**1 Pet 5:5-6**
+
+Likewise you that are younger be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for "God opposes the proud, but gives grace to the humble." Humble yourselves therefore under the mighty hand of God, that in due time he may exalt you. Cast all your anxieties on him, for he cares about you.
+
+</box>
+
+Likewise, Paul has many times called himself a servant. For example,
+
+<box type="tip">
+
+**1 Cor 3:5**
+
+What then is Apol'los? What is Paul? Servants through whom you believed, as the Lord assigned to each.
+
+</box>
+
+It does not mean that Paul is just a servant, but rather, he was saying that church elders are servants of the people, assigned by the Lord.
 
 ## Magisterium
 
 ## The councils
 
+The authority of the councils naturally follows the authority of the magisterium. Here I would like to present some counter-arguments against the validity of the councils.
+
+### Pope's attendance
+
+> But didn't the pope attend any ecumenical council in the first millenial?
+
+Yes, the pope did not attend any ecumenical council in the first millenial. However, the pope still has to approve of the works of the council in order for it to be declared ecumenical. In each council, the decree could be made by the council as a whole, and does not need to be made specifically by the pope.
+
+There are instances where the council is not declared ecumenical because of the pope's final say. In the second council of Ephesus, all bishops agreed on a heresy, but only the pope rejected the decision. The council was therefore declared not ecumenical. [[ref]](https://www.newadvent.org/cathen/05495a.htm)
+
+The council involved violence, with many opponents of Monophysitism being excommunicated from the council. (St) Pope Leo absolved all those condemned, and excommunicated all those who took part in the council.
+
+### Western schism
+
+There was a period where there were 3 rival claimants to papacy. Due to political reasons, popes had come to reside in Avignon, but pope Gregory XI returned the papacy to Rome. He died in 1378.
+
+A conclave in Rome elected Urban VI in 1378, taking residence in Rome. Later that year, Urban VI fell out of favour and hence a new conclave was held, electing Clement VII, taking residence in Avignon, France. Both died before the rivalry was resolved.
+
+- In Rome, Boniface IX, then Innocent VII, then Gregory XII succeeded.
+- In Avignon, Benedict XIII succeeded.
+- A third claimant was elected in Pisa, with the name of John XXIII.
+
+The council of Constance finally settled the matter in 1414.
+
+Notice that only successors in Rome were recognised as popes. During this time, even when there were rival claimants of the pope, but the line of (recognised) popes is preserved. [[ref]](https://www.catholic.com/encyclopedia/constance-council-of)
+
+- Pope Gregory XII was considered the legitimate pope, resigned
+- Benedict XIII was deposed as perjurer, schismatic, and heretic
+- John XXIII was deposed as simony, abetting schism, and scandalous behavior
+
+Martin V formally closed the council.
+
+The council ultimately had to be approved by a pope. Even though there were rival claimants, that does not mean the papal office was compromised. Rival claimants, which are a result of human actions, do not reduce the legitimacy of the authority of the pope.
+
 ## Papacy succession
 
 ## Church union
 
+Jesus wanted the church to be in unity, as in his prayer to the Father,
+
+<box type="tip">
+
+**John 17:11,20-22**
+
+And now I am no more in the world, but they are in the world, and I am coming to thee. Holy Father, keep them in thy name, which thou hast given me, ==that they may be one, even as we are one==. … "I do not pray for these only, but also for ==those who believe in me through their word, that they may all be one==; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me. The glory which thou hast given me I have given to them, that they may be one even as we are one,
+
+</box>
+
+That those who believe in Jesus will be in unity. It is unity not merely in the belief in Christ. It is the unity like how the Father and the Son are one.
+
+Jesus wanted Christians to be "one flock, one shepherd"
+
+<box type="tip">
+
+**John 10:16**
+
+And I have other sheep, that are not of this fold; I must bring them also, and they will heed my voice. So there shall be ==one flock, one shepherd==.
+
+</box>
+
+Jesus wanted Christians to be under the same "flock", with the same "shepherd." This unity can only be found through the one Church that Jesus founded: the Catholic Church.
+
+And through this Church, that Jesus wanted us to find companions,
+
+<box type="tip">
+
+**Ephesians 2:19-21**
+
+So then you are no longer strangers and sojourners, but you are ==fellow citizens with the saints and members of the household of God==, built upon the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole structure is joined together and grows into a holy temple in the Lord;
+
+</box>
+
+St Paul has also warned against schisms. He said,
+
+<box type="tip">
+
+**1 Cor 1:10,13**
+
+I appeal to you, brethren, by the name of our Lord Jesus Christ, that all of you agree and that there be no dissensions among you, but that ==you be united in the same mind and the same judgment==. … Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?
+
+</box>
+
+No one should break away from the Catholic church on the basis of their own beliefs that differ from the Catholic Church. St Paul appealed to us, Christians, to be united in the same thinking.
+
 ## Concluding words
+
+While there are times that the Church members did not uphold exemplary behaviour, including some popes, these actions by no means undermine the authority of the Catholic Church to teach infallibly. In fact, the apostles and Peter themselves are not perfect in their lives. The Catholic Church has been granted the gift of the Holy Spirit to never fall away from the truth. Whenever the pope speaks ex cathedra, or when a council is declared ecumenical, doctrines declared are safe to be considered infallible. The Catholic Church is the church that Jesus founded before He left, with the pope being the head of the Church.
+
+The Catholic Church has a long history of intellectual pursuits, which are concluded from the councils. It is through thousands of years of discussions that the Catholic Church has the current set of doctrines. Many of them can be explained, while some are arguable. But remember that, they are the ones with the best knowledge of the Church, of the Bible, of how one should interpret passages. Personally, I have found many instances where the Church's knowledge of the Bible passages in Greek helps me get the correct understanding. In a way, as I am sharing my knowledge about Catholic faith, I am standing on shoulders of giants.
+
+Some of you might wonder, aren't there too many doctrines to follow? Should we just stick to the Bible only? I would compare the Catholic church to the body of scientists. Many laws of Physics took years, even centuries, to be proven correct, and as we learn them in school, we are ignorant of how much sweat has gone into proving them. And that is how one should learn science! At times, people with curious mind would want to find out the proof of some theorems. But we should never break away from the complex body of science and say, we should stick to our own observations! That is how the modern flat Earth theory is formed. Flat Earthers stick to their own theories and observations to argue against the common belief of the round Earth. Similarly, the Church has been built upon centuries of intellectual pursuit. I as a Catholic may not know all doctrines, and may fully understand even fewer. But that is how I will commit as a Christian! I believe that the Catholic Church teaches correct doctrines. I at times may question the doctrines, and take time to find the answer. But I will never break away from the true church that Jesus has founded.
