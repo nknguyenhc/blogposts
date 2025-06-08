@@ -12,4 +12,5 @@ This topic is about the history of the Catholic church, with a variety of topics
 
 ### Pages
 
+- [Pope Infallibility](/contents/catholic-church-history/pope-infallibility.md)
 - [Vietnamese Martyrs](/contents/catholic-church-history/vietnamese-martyrs.html)
