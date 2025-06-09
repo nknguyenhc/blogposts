@@ -216,7 +216,13 @@ Jesus has promised to them the gift of the Holy Spirit, which protected them aga
 
 And I will pray the Father, and he will give you another Counselor, to be with you for ever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you. ... But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your remembrance all that I have said to you.
 
+**John 16:12-13**
+
+I have yet many things to say to you, but you cannot bear them now. When the Spirit of truth comes, he will guide you into all the truth; for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.
+
 </box>
+
+As successors of the apostles, teachings declared by the pope and the bishops (the magisterium) are inspired by the Holy Spirit, not themselves.
 
 ## Peter
 
