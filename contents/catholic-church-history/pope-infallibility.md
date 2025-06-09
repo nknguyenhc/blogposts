@@ -441,6 +441,68 @@ It does not mean that Paul is just a servant, but rather, he was saying that chu
 
 ## Magisterium
 
+<box type="tip">
+
+**1 Tim 3:15**
+
+I hope to come to you soon, but I am writing these instructions to you so that, if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth.
+
+</box>
+
+This verse states that the Church is the household of God, the pillar and bulwark of truth, emphasising the Church's role as the foundation and support for the truth.
+
+1 Timothy 3 also shows deacons and bishops (by specifying their qualifications) as part of the structure of the church.
+
+<box type="tip">
+
+**Luke 10:16**
+
+He who hears you hears me, and he who rejects you rejects me, and he who rejects me rejects him who sent me.
+
+</box>
+
+Jesus commanded the apostles to teach. Here, he reaffirms that he works through the apostles to advance the kingdom of God, and that if someone rejects those to whom he gives authority, they reject him and the Father who sent him.
+
+<box type="tip">
+
+**2 Tim 2:1-2**
+
+You then, my son, be strong in the grace that is in Christ Jesus, and what you have heard from me before many witnesses ==entrust to faithful men who will be able to teach others also==.
+
+</box>
+
+St Paul himself appointed bishops (faithful men) as his successors. One such example is St Timothy, as seen from his letter to Timothy above.
+
+<box type="tip">
+
+**Titus 1:5**
+
+This is why I left you in Crete, that you might amend what was defective, and ==appoint elders in every town as I directed you==.
+
+</box>
+
+Similarly, Paul wrote to Titus to appoint bishops (previously called elders), as seen from the verse above.
+
+<box type="tip">
+
+[Letter to the Smyrnaeans by St Ignatius of Antioch (110 AD)](https://www.newadvent.org/fathers/0109.htm)
+
+It is well to reverence both God and the bishop. He who honours the bishop has been honoured by God; he who does anything without the knowledge of the bishop, does [in reality] serve the devil.
+
+</box>
+
+This shows that we should follow the bishops and honour the bishops. Let's take a look at the passage below:
+
+<box type="tip">
+
+[Letter of St Irenaeus, Against Heresies, Chapter 3 (180 AD)](https://www.newadvent.org/fathers/0103303.htm)
+
+[we do this, I say,] by indicating that ==tradition derived from the apostles==, of the very great, the very ancient, and universally known ==Church founded and organized at Rome== by the two most glorious apostles, Peter and Paul; as also [by pointing out] the faith preached to men, which comes down to our time ==by means of the successions of the bishops==. For it is a matter of necessity that every Church should agree with this Church, on account of its ==preeminent authority==.
+
+</box>
+
+This letter shows that the Roman Catholic church has the greatest authority, and there should be succession of bishops who help preach faith to men.
+
 ## The councils
 
 The authority of the councils naturally follows the authority of the magisterium. Here I would like to present some counter-arguments against the validity of the councils.
@@ -478,6 +540,58 @@ Martin V formally closed the council.
 The council ultimately had to be approved by a pope. Even though there were rival claimants, that does not mean the papal office was compromised. Rival claimants, which are a result of human actions, do not reduce the legitimacy of the authority of the pope.
 
 ## Papacy succession
+
+### Structure of Church
+
+<box type="tip">
+
+**Heb 13:7**
+
+Remember your ==leaders==, those who spoke to you the word of God; consider the outcome of their life, and imitate their faith.
+
+**Heb 13:17**
+
+Obey your ==leaders and submit to them; for they are keeping watch over your souls, as men who will have to give account==. Let them do this joyfully, and not sadly, for that would be of no advantage to you.
+
+</box>
+
+In the letters to Hebrew, the author stresses that we should remember, obey and submit to the leaders who spoke to us the word of God. These instructions become meaningless if each of us has the authority to choose our own personal “leadership.” We can easily undermine the need for obedience to Church leadership by declaring ourselves leaders to some other leadership of our own choosing.
+
+This shows Church leadership as part of the structure of the Church.
+
+### Early Church's View
+
+> What was the Early Church's View on this topic?
+
+<box type="tip">
+
+[Letter of St Irenaeus, Against Heresies, Chapter 3 (180 AD)](https://www.newadvent.org/fathers/0103303.htm)
+
+[we do this, I say,] by indicating that tradition derived from the apostles, of the very great, the very ancient, and universally known Church founded and organized at Rome by the two most glorious apostles, Peter and Paul; as also [by pointing out] the faith preached to men, which comes down to our time by means of the ==successions of the bishops==. For it is a ==matter of necessity that every Church should agree with this Church on account of its preeminent authority==
+
+...The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate. Of this Linus, Paul makes mention in the Epistles to Timothy. To him succeeded Anacletus; and after him, in the third place from the apostles, ==Clement== was allotted the bishopric. ==This man, as he had seen the blessed apostles, and had been conversant with them, might be said to have the preaching of the apostles still echoing [in his ears], and their traditions before his eyes==. Nor was he alone [in this], for there were many still remaining who had received instructions from the apostles.
+
+</box>
+
+Once again, this proves the authority of the Roman Catholic church, apostolic traditions and the succession of bishops.
+
+In the passage above, we also know that Clement, who had seen the blessed apostles, and had been conversant with them, was ordained by Peter himself.
+
+Clement’s Pontificate was c.88-89, he was whom St.Paul referred as a ‘co-laborer and fellow soldier’ in his greeting in Philippians 4:3.
+
+Now knowing how close Pope Clement 1 was to the apostles, let's take a look at the Epistle to the Corinthians he wrote:
+
+<box type="tip">
+
+[First Epistle of Clement to the Corinthians 44:1-3 (95 AD)](https://www.newadvent.org/fathers/1010.htm)
+
+Our apostles also knew, through our Lord Jesus Christ, that there would be strife on account of the office of the episcopate. For this reason, therefore, inasmuch as they had obtained a perfect fore-knowledge of this, they appointed those [ministers] already mentioned, and afterwards gave instructions, that when these should fall asleep, other approved men should succeed them in their ministry.
+
+</box>
+
+The letter is a response to events in Corinth, where the congregation had deposed certain bishops. Pope Clement 1 called on the congregation to repent, to restore the bishops to their position, and to obey their superiors.
+
+From the letter, it can been seen just as the apostles’ authority was passed on their successors, Peter’s authority as the leader of the apostles was passed on to his successor to continue their ministry.
 
 ## Church union
 
