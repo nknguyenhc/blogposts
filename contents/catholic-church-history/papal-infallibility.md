@@ -1,7 +1,7 @@
 <frontmatter>
-  title: Pope Infallibility
+  title: Papal Infallibility
   pageNav: 4
-  pageNavTitle: Pope Infallibility
+  pageNavTitle: Papal Infallibility
 </frontmatter>
 
 <br>
