@@ -545,7 +545,7 @@ Martin V formally closed the council.
 
 The council ultimately had to be approved by a pope. Even though there were rival claimants, that does not mean the papal office was compromised. Rival claimants, which are a result of human actions, do not reduce the legitimacy of the authority of the pope.
 
-## Papacy succession
+## Papal succession
 
 ### Structure of Church
 
