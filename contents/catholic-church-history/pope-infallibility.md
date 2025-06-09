@@ -541,6 +541,8 @@ The council ultimately had to be approved by a pope. Even though there were riva
 
 ## Papacy succession
 
+### Structure of Church
+
 <box type="tip">
 
 **Heb 13:7**
@@ -556,6 +558,8 @@ Obey your ==leaders and submit to them; for they are keeping watch over your sou
 In the letters to Hebrew, the author stresses that we should remember, obey and submit to the leaders who spoke to us the word of God. These instructions become meaningless if each of us has the authority to choose our own personal “leadership.” We can easily undermine the need for obedience to Church leadership by declaring ourselves leaders to some other leadership of our own choosing.
 
 This shows Church leadership as part of the structure of the Church.
+
+### Early Church's View
 
 > What was the Early Church's View on this topic?
 
