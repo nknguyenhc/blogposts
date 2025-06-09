@@ -30,6 +30,10 @@
 * **Sacraments**
   * [Overview]({{ baseUrl }}/contents/sacraments/overview.html)
   * [The Eucharist & Transubstantiation]({{ baseUrl }}/contents/sacraments/eucharist.html)
+* **Papacy**
+  * [Overview]({{ baseUrl }}/contents/papacy/overview.html)
+  * [Magisterium]({{ baseUrl }}/contents/papacy/magisterium.html)
+  * [Papacy Succession]({{ baseUrl }}/contents/papacy/papacy-succession.html)
       </site-nav>
     </div>
   </nav>
