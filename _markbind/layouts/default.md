@@ -25,6 +25,7 @@
 * [Home :house:]({{ baseUrl }}/index.html)
 * **Catholic Church History**
   * [Overview]({{ baseUrl }}/contents/catholic-church-history/overview.html)
+  * [Papal Infallibility]({{ baseUrl }}/contents/catholic-church-history/papal-infallibility.html)
   * [Vietnamese Martyrs]({{ baseUrl }}/contents/catholic-church-history/vietnamese-martyrs.html)
 * **Sacraments**
   * [Overview]({{ baseUrl }}/contents/sacraments/overview.html)
