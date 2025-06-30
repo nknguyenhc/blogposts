@@ -14,3 +14,4 @@ This topic is about the history of the Catholic church, with a variety of topics
 
 - [Papal Infallibility](/contents/catholic-church-history/papal-infallibility.html)
 - [Vietnamese Martyrs](/contents/catholic-church-history/vietnamese-martyrs.html)
+- [Cardinal Thuan](/contents/catholic-church-history/cardinal-thuan.html)
