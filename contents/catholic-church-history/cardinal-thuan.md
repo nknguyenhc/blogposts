@@ -37,7 +37,7 @@ Cardinal Thuan has been named as Venerable, a significant step towards canonizat
 
 ## Historical context
 
-On 30 Apr 1975, the communist North took over the South, effectively reunite the country of Vietnam. While the communist government did not ban religious activities, many could be seen as plotting against the government. Catholics, including priests and bishops, are vulnerable targets.
+On 30 Apr 1975, the communist North took over the South, effectively reunited the country of Vietnam. While the communist government did not ban religious activities, many could be seen as plotting against the government. Catholics, including priests and bishops, are vulnerable targets.
 
 Immediately after reunification, the government opened many re-education camps, where past South Vietnam soldiers and past South Vietnam government officials were sent into. The camps were meant to "re-educate" inmates with communist ideologies, ensuring their loyalty towards the communist government.
 
@@ -114,7 +114,7 @@ To love as God loves.”
 
 Before being imprisoned, Thuan was very active in his ministry: educating seminarians, training youths, teaching catechisms, etc. They were what he was really passionate about.
 
-Then came his arrest. He no longer could carry out his diocesan work. It did not help when the re-education camp he was in was very near his past bishop office in Nha Trang. It gave him the most desparate feeling when he was right near his church, right near his bishop office. Yet, he could not be there to build the Church, to guide Catholics on the new chapter of his country.
+Then came his arrest. He no longer could carry out his diocesan work. It did not help when the re-education camp he was in was very near his past bishop office in Nha Trang. It gave him the most desperate feeling when he was right near his church, right near his bishop office. Yet, he could not be there to build the Church, to guide Catholics on the new chapter of his country.
 
 But a voice came from inside his mind,
 
