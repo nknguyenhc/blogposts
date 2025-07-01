@@ -27,6 +27,8 @@
 
 ++Talk to his [**digital twin**](https://cardinal-thuan.nknguyenhc.net/)++
 
+++[**1 July 2025 slides**](https://docs.google.com/presentation/d/1z0U7FaPTOWu8VgtK8lhokCAP9D09Y53dadoMGl5dRlU/edit?usp=sharing)++
+
 ## Overview
 
 Cardinal Francis Xavier Nguyen Van Thuan, or Cardinal Thuan for short, was arrested for 13 years without trial. Even in hardship, he still carried out his apostolic duties in prison, with an optimistic mindset. His life is a testimony of hope and faith in God.
@@ -64,6 +66,50 @@ The books are available here, in Vietnamese.
 - [Road of Hope](https://vntaiwan.catholic.org.tw/hyvong2/hyvong2.htm)
 - [Five Loaves and Two Fish](https://suyniemhangngay.net/wp-content/uploads/2016/08/N%C4%82M-CHI%E1%BA%BEC-B%C3%81NH-V%C3%80-HAI-CON-C%C3%81-%C4%90HY-Nguy%E1%BB%85n-V%C4%83n-Thu%E1%BA%ADn.pdf)
 
+His message in the preface of the book the Road of Hope best encapsulates the messages that he wanted to send:
+
+<box type="tip">
+
+”Cha lại đi thêm một quãng đường,\
+Chông gai, mịt mù và vô định,\
+Trên đường Cha gặp lắm lữ khách,\
+Cha đã xem tất cả là bạn,\
+Xem mọi biến cố là kinh nghiệm quý báu,\
+Vì tất cả là hồng ân.”
+
+“I am going on another long journey,\
+Thorny, obscure and uncertain,\
+On the way I met many travellers,\
+I considered them all as friends,\
+Considering every event as precious experience\
+Because all are God’s grace”
+
+“Chúa đã cho Cha những giây phút đẹp nhất\
+Không bao giờ có lời cầu nguyện thắm thiết hơn\
+Không bao giờ có thánh lễ sốt mến hơn\
+Không bao giờ có cơ hội thuận tiện hơn\
+Ðể hiệp nhất trong tình yêu Chúa\
+Ðể thi thố tình yêu giữa hận thù\
+Ðể gieo rắc hy vọng giữa tuyệt vọng\
+Vật chất có thể mất tất cả\
+Chúa là tình yêu\
+Tình yêu Chúa liên lỉ thúc bách Cha\
+Hãy yêu như Chúa đã yêu.”
+
+“God has given me the most beautiful moment\
+There has never been a more heartfelt prayer\
+There has never been a more fervent mass\
+There has never been a more favourable opportunity\
+To unite in love of God\
+To strive for love in the midst of hatred\
+To spread hope in the midst of despair\
+One may lose all assets\
+God is love\
+God’s love constantly urges me\
+To love as God loves.”
+
+</box>
+
 ### Choose God, not works for God
 
 Before being imprisoned, Thuan was very active in his ministry: educating seminarians, training youths, teaching catechisms, etc. They were what he was really passionate about.
@@ -78,9 +124,47 @@ But a voice came from inside his mind,
 
 And he found peace in what was said.
 
-There were days that he was in absolute darkness, and there was only a small hole with light coming in, he placed his nose there to breathe. Sometimes insects came in, there were worms, long worms crawling around. But he was too weak to do anything about it.
+This change of mindset is best captured in his words in the book the Road of Hope. He said,
 
-Two other priests recounted what happened to him: a nurse brought them to him and said, “I let two of you see Thuan, he is already about to die!” But in this hardship, God has saved him.
+<box type="tip">
+
+**The Road of Hope, 76**
+
+Chương trình đang thực hiện tốt đẹp phải bỏ dở, hoạt động đang hăng say phải bó tay, nhiệm vụ đang quan trọng phải hạ tầng công tác! Uất ức và chán nản! Chúa gọi con "Hãy theo Thầy" hay "Hãy theo việc nọ, người kia"? Ðể đó, Chúa sẽ liệu.
+
+Your programme that was being well-executed had to be abandoned, your activities that you were passionate about had to be stopped, your important task had to be scaled down! Frustrated and fed up! Did God call you to “follow Me” or “follow this or that person”? Just leave it there, God will take care of it.
+
+</box>
+
+And in fact, it is important that we listen to God, instead of overriding God's will with what we think is good works for God. That is what humility entails.
+
+<box type="tip">
+
+**The Road of Hope, 77**
+
+Con không tin ai, không trao công việc cho ai, không chịu nhường chỗ cho ai. Con toàn năng hơn Chúa nữa sao?
+
+You do not trust anyone, do not delegate work to anyone, do not give up your place to anyone. Are you more powerful/important than God?
+
+**The Road of Hope, 78**
+
+Tại sao con khư khư ôm lấy công việc nọ, công việc kia, không chịu buông ra khi thượng cấp thuyên chuyển? Việc đó của Chúa hơn là việc của con! Có Chúa lo.
+
+Why do you cling onto this work, that work, refusing to let go when your superiors transfer you elsewhere? That work is God’s business more than yours! God will take care of it.
+
+</box>
+
+And perhaps, it is in choosing God that Thuan had a clear idea in mind what to do in prison, and that he stopped missing his past serving as a bishop.
+
+<box type="tip">
+
+**The Road of Hope, 614**
+
+Tại sao con cảm thấy đời mình lạc lõng, dở dang? Tại sao con thấy con đang xao xuyến; ngột ngạt? Vì con chưa đánh tan mây mù dày đặc đang che khuất hình ảnh Chúa trong con.
+
+Why do you feel lost and unfulfilled? Why do you feel restless, suffocated? That is because you have not yet dispelled the thick clouds obscuring the image of God within you.
+
+</box>
 
 So, perhaps God's will was for him to do something else in prison. But what could it be?
 
@@ -110,13 +194,148 @@ Teresa Calcutta has one sent a letter to him, saying,
 
 > “Điều quan trọng không phải là số công tác đã thực hiện nhưng là mức độ tình yêu ta đã để vào mỗi công việc.”
 >
-> “What matters is not the amount of work done but the amount of love we put into each task.”
+> “It is not about how much you do, but how much love you put into what you do that counts.”
 
 Live every moment like it is the last. Every word, every thought, every action, every phone call, etc, all has to be the best in life. Do not regret any moment in life as though one has not done enough.
+
+### Faith
+
+Having faith is the basis for salvation. But what does faith exactly entail? Is it the belief that it is a fact that Jesus lived and died on the cross, or is it the faith that Jesus died on the cross for humanity, and that we must cooperate with God's grace to gain eternal life? Is it faith by birth, or faith by one's conscious choice? In fact, Thuan wrote in his book the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 274**
+
+Xem hành động của con, phản ứng của con, đủ biết đức tin của con sống động hay là "đức tin nhãn hiệu".
+
+Look at your actions, your reactions, to know whether your faith is alive, or a “brand-name faith.”
+
+**James 2:14,17**, What does it profit, my brethren, if a man says he has faith but has not works? Can his faith save him? ... So faith by itself, if it has no works, is dead.
+
+</box>
+
+Having faith is having the belief that God can do miracles, and that we need to cooperate with Him, being his instruments. That is the means through which one can do good works. It is not one's own effort, but one's own belief that God can aid him in doing good works. His effort is then to put his belief in God, and cooperate with God.
+
+<box type="tip">
+
+**The Road of Hope, 276**
+
+Chúa đặt điều kiện quá dễ: nếu ai có đức tin bằng hạt cải, khiến núi dời cũng được. Tại sao thế? Vì không phải ta làm, nhưng chính Chúa làm.
+
+God set such an easy condition: any has faith even as small as a mustard seed, can move mountains. Why? Because it is not he who does it, but God who does it.
+
+**Matthew 17:20**, He said to them, “Because of your little faith. For truly, I say to you, if you have faith as a grain of mustard seed, you will say to this mountain, ‘Move from hence to yonder place,’ and it will move; and nothing will be impossible to you.”
+
+</box>
+
+But one is reminded that having that even just that small faith is difficult. And that is what we can pray with God for!
+
+<box type="tip">
+
+Hãy thành thực cầu xin như các Tông đồ: "Xin thêm đức tin cho chúng con" (Lc 17,5).
+
+Pray sincerely like the apostles, “Increase our faith!” (**Luke 17:5**)
+**Mark 9:24**, “I believe; help my unbelief!”
+
+</box>
+
+One is reminded of how precious faith is. It is the ticket to eternal life, which one should not trade for anything else, and should put above everything else. In fact, Thuan said,
+
+<box type="tip">
+
+**The Road of Hope, 16**
+
+Thà mất tiền của, chức tước, thà mất mạng sống để giữ lý tưởng, danh dự, đức tin, con chấp nhận. Nhưng không bao giờ con chấp nhận đổi ngược lại: lỗ lã quá!
+
+I would rather lose money, titles, my life to keep my ideals, honor, faith; yes I accept. But I would never accept the opposite: what a loss!
+
+</box>
+
+### Sins and Reflection
+
+Equally important to one's desire to do good works is one's repentance for his sins. That is, not giving in to temptation. Cardinal Thuan said in his book the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 13**
+
+Không nhượng bộ cho xác thịt,\
+Không nhượng bộ cho lười biếng,\
+Không nhượng bộ cho ích kỷ ...\
+Con không thể gọi đen là trắng, xấu là tốt, gian là ngay được.
+
+Do not give in to the flesh,\
+Do not give in to laziness,\
+Do not give in to selfishness ...\
+You cannot call black white, bad good, dishonest right.
+
+</box>
+
+Sometimes, it is to go against the wisdom of the world too. Is that considered placing oneself more important than others? Thuan said,
+
+<box type="tip">
+
+**The Road of Hope, 15**
+
+Không nhượng bộ, không phải là kiêu căng, tự ái hay ngoan cố. Không nhượng bộ là yêu thương quyết liệt lý tưởng của mình.
+
+Not giving in is not arrogance, pride or stubbornness. Not giving in is fierce love for one’s ideals.
+
+</box>
+
+It is not simple to overcome sins. It is a continuous process, requiring constant effort and resolution. Do not assume that you yourself cannot change. Be decisive, and have faith that God will change you.
+
+<box type="tip">
+
+**The Road of Hope, 212**
+
+Con đừng mang bệnh nhẹ tính, nhẹ dạ, nó làm chí khí chết mòn. Triệu chứng của nó là hay thay đổi ý kiến và hoạt động. Ðời con đừng chồng chất một đống chương trình không bao giờ thực hiện.
+
+Do not be ill-tempered or light-hearted, for it saps your will. Its symptoms are fickleness of opinion and action. Do not fill your life with plans that are never to be executed.
+
+**The Road of Hope, 222**
+
+Ðừng nói: "Tôi tự nhiên vậy, sửa sao được". Không, đó là những khuyết điểm bất xứng với con. Con phải "nên người", "nên con Chúa".
+
+Don’t say, “I’m just like that, I can’t change.” No, those are flaws making you unworthy. You must “grow up,” “becoming a child of God.”
+
+</box>
+
+One of the sins easiest to miss out is sin of obmission. In fact, this bridges the gap between sins and good works: that it is a sin if one has the capacity for good works yet do not do.
+
+<box type="tip">
+
+**The Road of Hope, 892**
+
+Không kiểm điểm "bệnh thiếu sót" là một thiếu sót lớn, đây là một ít hiện tượng: hững hờ làm việc Chúa, tính toán giảm thiểu các hy sinh, khéo léo trốn tránh trách nhiệm, hành động vì lý do trần tục, so đo lánh nặng tìm nhẹ ...
+
+Not examining the “sins of omission” is a great omission, here are a few symptoms: indifference towards doing God’s work, calculating to minimize sacrifices, cleverly avoiding responsibilities, acting for worldly reasons, comparing to avoid the heavy and find the light ...
+
+**James 4:17**: Whoever knows what is right to do and fails to do it, for him it is sin.
+
+[Gaudium Et Spes, 43](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html): For Christians, neglecting their duties on earth means neglecting their duties towards others and towards God, compromising their eternal salvation.
+
+</box>
+
+On reflecting on one's sins, it must be accompanied by the resolution to avoid those sins in future. It is of no use to recognise one's sins without the effort to avoid them.
+
+<box type="tip">
+
+Kiểm điểm mấy cũng vô ích, nếu con không dốc quyết cải thiện. Coi máy mà không làm máy lại, xe chẳng chạy được.
+
+No amount of self-reflection will help, if you do not make a conscious effort to improve. Inspecting the engine without repair, and the car will never run.
+
+**Rev 2:4-5**, But I have this against you, that you have abandoned the love you had at first. Remember then from what you have fallen, repent and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.
+
+</box>
 
 ### Prayers
 
 It was hard in prison. Time passes by really slowly during solitary confinement. Our ancestors had said in the proverbs: “Nhất nhật tại tù, thiên thu tại ngoại”, or “one day in prison, [equals] thousands of years in freedom.”
+
+There were days that he was in absolute darkness, and there was only a small hole with light coming in, he placed his nose there to breathe. Sometimes insects came in, there were worms, long worms crawling around. But he was too weak to do anything about it.
+
+Two other priests recounted what happened to him: a nurse brought them to him and said, “I let two of you see Thuan, he is already about to die!” But in this hardship, God has saved him.
 
 Sometimes he was too weak to just pray one full prayer. Then he remembered Jim’s story. [[ref]](https://boozejoyce.wordpress.com/2022/01/17/jims-story/)
 
@@ -136,6 +355,18 @@ Later, shortly after Hai and Thuan parted ways, Thuan received a letter from Hai
 
 ### The Eucharist
 
+The Eucharist is very central to the Catholic faith. And it is not an exception for Thuan. He has said in his book the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 363**
+
+"Dù thiếu tất cả, dù mất tất cả, nhưng còn Thánh Thể là còn tất cả vì con có Chúa Thiên đàng dưới đất"
+
+“Even if I lack everything, even if I lose everything, having the Eucharist means I still have everything, because I have God [who reigns] both on earth and in heaven.”
+
+</box>
+
 Even under the strict monitoring of the re-education camps, Thuan managed to carry out the Eucharist. Where did he get the bread and wine to consecrate? In his letters to the outside, he wrote, "please send me some wine, the medicine to treat the gut"
 
 The people receiving his message understood what he meant. They sent him a small bottle with unleavened bread and wine, outside with the sticker “medicine to treat the gut”. This passed the security checks.
@@ -144,7 +375,7 @@ In the bunker inside the boat moving him to the North, he used bags as the altar
 
 And all of that effort to keep the Eucharist was not in vain. They managed to see a lot of miracles.
 
-At night, inmates adore the Eucharist. With the silent presence, Jesus Christ made many miracles. Many Catholics came back to faith enthusiastically. Their testimony of love and service had a great impact on other inmates. Even many Buddhists and agnostics converted into the faith. The power of Jesus’ love is irresistible. And so the darkness of night became the light of Easter, the seed has been sown in the middle of a storm. Prison became a school for catechism. Catholics conducted baptism for fellow inmates, becoming their godparents.
+At night, inmates adore the Eucharist. With the silent presence, Jesus Christ made many miracles. Many Catholics came back to faith enthusiastically. Their testimony of love and service had a great impact on other inmates. Even many Buddhists and agnostics converted into the faith. The power of Jesus’ love is irresistible. And so the darkness of night became the light of Easter, the seed has been sown in the middle of a storm. Prison became a school for catechism. Catholics conducted baptism for fellow inmates and became their godparents.
 
 Jesus fed the people who followed Him in the desert, and in the Eucharist, Jesus continued to be the food for eternal life.
 
@@ -184,6 +415,32 @@ Truly, I say to you, as you did it to one of the least of these my brethren, you
 
 </box>
 
+This attitude of loving your enemies is best captured in his words in the book the Road of Hope. Love is to forgive others, pray for others, and do not expect them to reciprocate your love.
+
+<box type="tip">
+
+**The Road of Hope, 104**
+
+Trước những vô ơn, phản bội, vu cáo, đau đớn, nhất là những ác ý phi lý, do những nhân vật không thể ngờ được, phản ứng của con là:
+
+- Tha thứ thật lòng.
+- Xin họ tha thứ nếu họ không bằng lòng con.
+- Yêu thương cầu nguyện cho họ thức tỉnh.
+
+Như vậy, con càng khỏi dựa vào sự an ủi thế gian.
+
+In the face of ungratefulness, betrayal, false accusations, pain, especially unjustified malice, caused by those unexpected, your reaction should be:
+
+- True forgiveness
+- Ask them to forgive you for anything they are unsatisfied with you
+- Pray with love for them to awaken
+
+In this way, you no longer rely on worldly consolation.
+
+**Matthew 5:44**, But I say to you, love your enemies and pray for those who persecute you
+
+</box>
+
 During one of his conversations with a superior, the superior asked Thuan about his opinion on a Catholic news outlet, "Người Công giáo". And he said, there needs to be more conversations between Catholics and non-Catholics, to foster understanding. And so, Thuan agreed to write a "lexicon" in multiple languages, French, English, Italian, Latin, Spanish, Chinese, Vietnamese, to explain Catholic terms, differences between Catholicism and Protestanism and Orthodox, as well as other Catholic matters such as finance of the Church, priesthood, relation between the Church and the people, etc. Many were open to conversation and understanding.
 
 At one time, there were 20 young soldiers learning Latin so as to read Catholic documents. One of them asked Thuan to teach him a song in Latin. He offered many songs, and he chose, Veni Creator, which means prayer for Holy Trinity to come. He was moved that a communist fellow sung the song in a communist jail. Another one chose the song, "in rememberance of Thomas Thien." Thomas Thien was one of the Vietnamese martyrs canonized as saint.
@@ -207,6 +464,98 @@ Many wardens were perplexed by his attitude towards them, who should have been s
 > For Jesus has taught me to love; if I do not keep the commandment, I am no longer worthy to be called a Christian
 
 We as Catholics do not do great works, we are simply instruments of God: just like the boy who had as little as 5 loaves and 2 fish. But that was all it needed, because God did the rest: he multiplied it and fed five thousand people.
+
+### Commit
+
+And one should not love only at his own convenience: one is to commit all of himself into loving others. In fact, Thuan encourages his readers to not just keep Jesus' love to himself, but share with others widely. It is through interaction with others and loving others, like how Jesus loves us, that one is making his best effort in doing apostolic work.
+
+<box type="tip">
+
+**The Road of Hope, 613**
+
+Con không muốn làm một mình, con muốn làm cho người khác cũng biết làm,\
+Con không muốn dâng hiến một mình, con muốn người khác cũng dâng hiến,\
+Con không muốn tạo cảm tình cho cá nhân con, con thúc đẩy người khác mở rộng vòng tình cảm đến anh em như một hòn đá tung xuống nước cứ gợn sóng tràn ra mãi.\
+Ðể lôi kéo họ ra khỏi chính mình, và trở nên con người như ý Chúa muốn từ đời đời.
+
+You should desire not to do it alone, but desire to do such that others know how to do.\
+You should desire not to commit alone, but desire others to commit too.\
+You should desire not to satisfy your own feelings, but urge others to extend the circle of love to their brothers and sisters, like a stone thrown into water creating ripples that spread forever.\
+To draw them out of themselves, and become the people God intended from the beginning.
+
+</box>
+
+And when committing oneself as a disciple of God, one is to stick to and learn from reality. Only from there that one can improve his works.
+
+<box type="tip">
+
+**The Road of Hope, 616**
+
+Có người nhắm mắt ngoảnh mặt để khỏi nhìn, có người bịt tai giả điếc để đừng nghe. Nhưng sự thật vẫn là sự thật. Con hãy nhìn rõ, nghe kỹ, học với thực tế, học với người khác. Thực tế là bài học, người anh em là thầy con.
+
+Some people close their eyes and turn away to not see, some people cover their ears and pretend to be deaf to not hear. But the truth is still the truth. Look clearly, listen carefully, learn from reality, learn from others. Reality is the lesson, your brothers are your teachers.
+
+**Matthew 13:15**, For this people’s heart has grown dull, and their ears are heavy of hearing, and their eyes they have closed, lest they should perceive with their eyes, and hear with their ears,
+
+**The Road of Hope, 620**
+
+Con có phải là hạng công giáo ngoan đạo, sống quanh quẩn phòng thánh và đã hoá nên "nửa thần, nửa thánh, nửa người" không? Hãy theo Chúa Giêsu: Thiên Chúa thật và người thật đến với trần gian. Xin con hãy "nhập tịch" người lại.
+
+Are you a devout Catholic who lives in the sanctuary and has become “half god, half saint, half man”? Follow Jesus: true God and true man who came to earth. Please “naturalise” back to humanity.
+
+</box>
+
+To commit to God is to commit to God's grand plan of things. It is not to exclude oneself from the world, but to dive into the world and contribute to the growth of it. God has created you into this world for a reason. It is not to detach from the world, but to make a change in this world.
+
+<box type="tip">
+
+**The Road of Hope, 621**
+
+Ðừng để thiên hạ xây dựng thế giới này mỗi ngày mà con không hay biết, không khám phá, không thao thức, không nhúng tay vào. Chúa đã cứu chuộc con, và đặt con vào thế gian trong thế kỷ này, thập niên này, môi trường này. Ðặt con, chứ không phải cục đá! Khác nhau lắm! Ðừng làm "công giáo bù nhìn".
+
+Do not let the people build this world everyday without you knowing, discovering, anticipating, getting involved. God has redeemed you, and placed you in this world in this century, this decade, this environment. Placed you, not a rock! It is very different! Do not be a “puppet Catholic”.
+
+**The Road of Hope, 626**
+
+Con phải chọn cách dấn thân, căn cứ vào khả năng của con, nhu cầu của anh em, môi trường con đang lặn lội. Con không làm được tất cả, nhưng làm tất cả những gì con làm được, vì làm với "đức tin".
+
+You must choose how to commit yourself, based on your ability, the needs of your brothers and sisters, the environment you are navigating in. You cannot possibly do everything, but you have to do everything you can, because you are doing it with “faith”.
+
+</box>
+
+In committing to God's call, suffering is bound to come. Our attitude towards suffering is important. While it is hard, it is what choosing God entails.
+
+<box type="tip">
+
+**The Road of Hope, 714**
+
+Thử thách gian khổ là "giấy phép theo Chúa" để hưởng hạnh phúc hân hoan với Chúa: "Nếu ai muốn theo Ta, thì hãy chối bỏ chính mình, hãy vác lấy khổ giá và hãy theo Ta" (Mt 16,24).
+
+Trials and hardships are the “license to follow God” to enjoy happiness with God: “If any man would come after me, let him deny himself and take up his cross and follow me” (Mt 16:24)
+
+**Matthew 7:13-14**: Enter by the narrow gate; for the gate is wide and the way is easy, that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard, that leads to life, and those who find it are few.
+
+**The Road of Hope, 700**
+
+Trong gian khổ có ba điều con nên tránh:
+
+- Ðừng điều tra "tại ai?" Hãy cám ơn dụng cụ nào đó Chúa dùng thánh hoá con.
+- Ðừng than thở với bất cứ ai. Chúa Thánh Thể, Ðức Mẹ là nơi con tâm sự trước hết.
+- Khi đã qua, đừng nhắc lại và trách móc, hận thù. Hãy quên đi, đừng nhắc lại bao giờ và nói: Alleluia!
+
+In suffering there are 3 things you should avoid:
+
+- Do not investigate “who did it”? But give thanks to the instrument God used to sanctify you
+- Do not complain with anyone. The Eucharist, mother Mary are the first you should talk to
+- When it is over, do not recall it and condemn, hate. Forget about it, do not ever recall, and just say: Alleluia!
+
+</box>
+
+In fact, this is consistent with what Thuan said when people asked him about his sufferings in jail. He rather preferred not to bad-mouth about the communists. In the preface of the book Five Loaves and Two Fish,
+
+> Nhiều lúc tôi cảm thấy khó chịu trong lòng vì người ta phỏng vấn, muốn thúc giục tôi nói những chuyện giật gân, trong thời gian lao tù, ... Đó không phải mục đích của tôi. Nguyện vọng lớn nhất của tôi là trao lại cho các bạn trẻ một sứ điệp của tình thương và sự thật, của công lý và hòa bình, của tha thứ và hòa giải, để xây dựng.
+>
+> Many times I felt uncomfortable because when people interviewed me, they urged me to expose sensational stories during my time in prison ... That is not my purpose. My greatest wish is to convey to the young people a message of love and truth, of justice and peace, of forgiveness and reconciliation, for constructive actions.
 
 ### Mother Mary
 
@@ -242,7 +591,47 @@ Mai Chi Tho was baffled. Thuan continued.
 
 Then, turning to his subordinates, Tho said: let Thuan be granted his wish
 
-### Choose God
+### I Choose God
+
+In choosing God, one has to be decisive. As he said in his book the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 62**
+
+Chọn lựa bao giờ cũng tiếc nuối, do dự, suy nghĩ, nhưng cuối cùng phải quyết định dứt khoát.
+
+Making a choice always involves regrets, hesitation, deliberation, but in the end, you must be decisive.
+
+**Mark 10:21-22**, And Jesus looking upon him loved him, and said to him, “You lack one thing; go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.” At that saying his countenance fell, and he went away sorrowful; for he had great possessions.
+
+</box>
+
+One is to try to please God, not please men. When offered the choice between pleasing God and pleasing men, one should have the peace in mind to choose God.
+
+<box type="tip">
+
+**The Road of Hope, 102**
+
+Mọi người khen con, mà Chúa chê con, khốn cho con. Mọi người nhục mạ, vu cáo, ghê gớm con, nhưng Chúa khen con thì hạnh phúc cho con, vì nước thiên đàng là của con.
+
+Everyone praises you, but God disapproves of you, then woe to you. Everyone insults you, slanders you, but God praises you, then happy to you, for the kingdom of heaven is yours.
+
+**Galatians 1:10**, Am I now seeking the favor of men, or of God? Or am I trying to please men? If I were still pleasing men, I should not be a servant of Christ.
+
+**The Road of Hope, 103**
+
+Mọi người khen con, mà Chúa chê con, được ích gì? Mọi người nhạo cười con, mà Chúa khen con, hạnh phúc cho con. Khi dân chúng kêu: "Xin tha Baraba!" Baraba vẫn là kẻ trộm. Khi dân chúng la lối: "Hãy đóng đinh nó!" Chúa Giêsu vẫn là Con Thiên Chúa vô tội.
+
+What good is it if everyone praises you, but God disapproves of you? If everyone laughs at you, but God praises you, then happy to you. When they cried, “Release Barabbas!” Barrabas was a thief. When they cried, “Crucify him!” Jesus was the innocent Son of God.
+
+</box>
+
+Would loving others be considered pleasing men? Should I then stop loving others then? Well, humans are not exactly that simple. I love a quote by Mother Teresa Calcutta,
+
+> If you are kind, people may accuse you of selfish, ulterior motives; Be kind anyway.
+
+It is pleasing to God that one loves others, even when others disapprove of it.
 
 Many asked him, how can one truly follow God, in this world full of tumult? So here are his 24 stars, each of which is a guide on "one" thing.
 
@@ -324,7 +713,7 @@ If you only fear sin, then no one is stronger than you.
 
 After release, he was allowed to stay at the bishop office in Hanoi, but was not allowed to carry out his religious duties. [[ref]](https://vntaiwan.catholic.org.tw/02viet/viet56.htm)
 
-In September 1991, he travelled to Rome to seek medical attention for his disease in Rome. While in Rome, the Vietnamese government declared that Thuan was banned from re-entrance to Vietnam. He lived in Rome since.
+In September 1991, he travelled to Rome to seek medical attention for his disease. While in Rome, the Vietnamese government declared that Thuan was banned from re-entrance to Vietnam. He lived in Rome since.
 
 In 1994, Thuan resigned from the position of vice-archbishop of Saigon, and was appointed by the Vatican to be the vice-president of the Holy See's Pontifical Council for Justice and Peace. He taught and presented at many places, including a cathedral in Paris, Catholic universities, an event in Mexico (May 1998) with more than 50k participants, the USA. [[ref]](https://giesu.net/dhy-nguyen-van-thuan/)
 
@@ -382,7 +771,7 @@ I heard You tell me:\
 "Abide in me, in my love."\
 How can I abide in another person?\
 Only Your love can do miracles.\
-I understand that You wants my whole life:\
+I understand that You want my whole life:\
 "All for the love of God."
 
 I follow Your every step on the road of hope:\
@@ -420,7 +809,7 @@ Which is Yours, because You have borne it all;\
 Which is in my brothers, because You are in them;
 
 I believe firmly,\
-Because You have risen in triumph:\
+Because You have taken the triumphant step and have risen:\
 "Be courageous, for I have overcome the world."
 
 For You taught me:\
