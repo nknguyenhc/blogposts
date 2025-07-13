@@ -409,6 +409,12 @@ So he started to open up with the wardens. He talked about his past experience i
 
 <box type="tip">
 
+**The Road of Hope, 769**
+
+Sự lầm lạc lớn nhất là không biết những người khác là Chúa Kitô. Có nhiều người tận thế mới vỡ lẽ!
+
+The greatest mistake is not knowing others are Christ. Many people will only realise it at the end of the world!
+
 **John 25, 39**
 
 Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me.
@@ -556,6 +562,46 @@ In fact, this is consistent with what Thuan said when people asked him about his
 > Nhiều lúc tôi cảm thấy khó chịu trong lòng vì người ta phỏng vấn, muốn thúc giục tôi nói những chuyện giật gân, trong thời gian lao tù, ... Đó không phải mục đích của tôi. Nguyện vọng lớn nhất của tôi là trao lại cho các bạn trẻ một sứ điệp của tình thương và sự thật, của công lý và hòa bình, của tha thứ và hòa giải, để xây dựng.
 >
 > Many times I felt uncomfortable because when people interviewed me, they urged me to expose sensational stories during my time in prison ... That is not my purpose. My greatest wish is to convey to the young people a message of love and truth, of justice and peace, of forgiveness and reconciliation, for constructive actions.
+
+Going on the journey with Jesus towards heaven is not an easy journey. In fact, Jesus has made this very clear: following Him is not to stay in one's comfort zone, but to deny himself, and embrace hardship. But it is the ultimate rewards that makes the sacrifices worth it.
+
+<box type="tip">
+
+**Luke 9:23-26**
+
+And he said to all, “If any man would come after me, let him deny himself and take up his cross daily and follow me. For whoever would save his life will lose it; and whoever loses his life for my sake, he will save it. For what does it profit a man if he gains the whole world and loses or forfeits himself? For whoever is ashamed of me and of my words, of him will the Son of man be ashamed when he comes in his glory and the glory of the Father and of the holy angels.
+
+</box>
+
+That is, in choosing God, one is to not hold back anything.
+
+But speaking practically, what can one do? Arguably, it is hard in this day and age to find the opportunity to make the sacrifice. Does God want us to not keep any possession, and do not care about our own well-being? Not exactly. God asks us to make the sacrifice when it comes to the decision between your own benefit and another person's benefit, your own pride and reconciliation with another person, your own satisfaction of getting revenge and forgiving your repentent friend.
+
+<box type="tip">
+
+**The Road of Hope, 153**
+
+Con nghĩ rằng con không có gì để hy sinh cho Chúa, nhưng Chúa thấy con bỏ qua nhiều dịp: tươi cười với một người nói móc họng, thinh lặng trước một vu cáo bất công, yêu thương một người bạn phản bội, không nói một lời hóc búa trả đũa. Mỗi giây phút đều có dịp hy sinh.
+
+You think that you have nothing to be sacrificed to God, but God observes that you have passed too many opportunities: smiling at someone bad-mouthing you, staying silent in the face of an unjust accusation against you, loving a friend who betrayed you, without a vengeful bad word in response. Every moment is an opportunity for sacrifice.
+
+</box>
+
+In fact, as we have seen, this degree of love is the sign proving that one is a Christian.
+
+Sacrifice also involves one's denouncement of sins.
+
+<box type="tip">
+
+**The Road of Hope, 162**
+
+Cái gì làm con xa Chúa, hãy hy sinh nó đi: Móc mắt, chặt tay, cưa chân...
+
+Whatever keeps you away from God, sacrifice it: gouge out your eyes, cut off your hands, saw off your legs, etc.
+
+**Matthew 5:29-30**: If your right eye causes you to sin, pluck it out and throw it away; it is better that you lose one of your members than that your whole body be thrown into hell. And if your right hand causes you to sin, cut it off and throw it away; it is better that you lose one of your members than that your whole body go into hell.
+
+</box>
 
 ### Mother Mary
 
