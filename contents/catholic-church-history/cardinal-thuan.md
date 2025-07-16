@@ -359,6 +359,12 @@ The Eucharist is very central to the Catholic faith. And it is not an exception 
 
 <box type="tip">
 
+**The Road of Hope, 360**
+
+Ðèn không sáng, nếu hết dầu; xe không chạy, nếu cạn xăng; hồn tông đồ sẽ suy mạt nếu không đến với Thánh Thể: "Nếu các ngươi không ăn thịt Con Người và uống máu Ngài, các ngươi không có sự sống nơi mình các ngươi" (Ga 6,53).
+
+A lamp will not light if it runs out of oil; a car will not work if it runs out of petrol, an apostolic soul will weaken if it does not come to the Eucharist: "unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53)
+
 **The Road of Hope, 363**
 
 "Dù thiếu tất cả, dù mất tất cả, nhưng còn Thánh Thể là còn tất cả vì con có Chúa Thiên đàng dưới đất"
@@ -376,6 +382,24 @@ In the bunker inside the boat moving him to the North, he used bags as the altar
 And all of that effort to keep the Eucharist was not in vain. They managed to see a lot of miracles.
 
 At night, inmates adore the Eucharist. With the silent presence, Jesus Christ made many miracles. Many Catholics came back to faith enthusiastically. Their testimony of love and service had a great impact on other inmates. Even many Buddhists and agnostics converted into the faith. The power of Jesus’ love is irresistible. And so the darkness of night became the light of Easter, the seed has been sown in the middle of a storm. Prison became a school for catechism. Catholics conducted baptism for fellow inmates and became their godparents.
+
+This is just as he noted his book, the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 367**
+
+Chúa Giêsu đã làm cách mạng trên Thánh giá. Cuộc cách mạng của con phải bắt nguồn từ bàn thánh. Tiếp tục cuộc cách mạng của Chúa, con sẽ làm nên một nhân loại mới.
+
+Jesus made a revolution on the Holy Cross. Your revolution must start from the altar. Continuing God's revolution, you will renew humanity.
+
+**The Road of Hope, 369**
+
+Cả cuộc sống con phải loan truyền việc Chúa chịu chết và tuyên xưng việc Chúa sống lại.
+
+Your whole life must be to proclaim the Lord's death and profess His resurrection.
+
+</box>
 
 Jesus fed the people who followed Him in the desert, and in the Eucharist, Jesus continued to be the food for eternal life.
 
