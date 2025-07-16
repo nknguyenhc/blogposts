@@ -439,7 +439,7 @@ Sự lầm lạc lớn nhất là không biết những người khác là Chúa
 
 The greatest mistake is not knowing others are Christ. Many people will only realise it at the end of the world!
 
-**John 25, 39**
+**Matthew 25:40**
 
 Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me.
 
@@ -593,13 +593,13 @@ Going on the journey with Jesus towards heaven is not an easy journey. In fact, 
 
 **Luke 9:23-26**
 
-And he said to all, “If any man would come after me, let him deny himself and take up his cross daily and follow me. For whoever would save his life will lose it; and whoever loses his life for my sake, he will save it. For what does it profit a man if he gains the whole world and loses or forfeits himself? For whoever is ashamed of me and of my words, of him will the Son of man be ashamed when he comes in his glory and the glory of the Father and of the holy angels.
+And he said to all, “If any man would come after me, let him deny himself and take up his cross daily and follow me. For whoever would save his life will lose it; and whoever loses his life for my sake, he will save it. For what does it profit a man if he gains the whole world and loses or forfeits himself? For whoever is ashamed of me and of my words, of him will the Son of man be ashamed when he comes in his glory and the glory of the Father and of the holy angels.”
 
 </box>
 
 That is, in choosing God, one is to not hold back anything.
 
-But speaking practically, what can one do? Arguably, it is hard in this day and age to find the opportunity to make the sacrifice. Does God want us to not keep any possession, and do not care about our own well-being? Not exactly. God asks us to make the sacrifice when it comes to the decision between your own benefit and another person's benefit, your own pride and reconciliation with another person, your own satisfaction of getting revenge and forgiving your repentent friend.
+But speaking practically, what can one do? Arguably, it is hard in this day and age to find the opportunity to make the sacrifice. Does God want us to not keep any possession, and do not care about our own well-being? Not exactly. God asks us to make the sacrifice when it comes to the decision between your own benefit and another person's benefit, your own pride and reconciliation with another person, your own satisfaction of getting revenge and forgiving your repentant friend.
 
 <box type="tip">
 
