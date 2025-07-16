@@ -359,6 +359,12 @@ The Eucharist is very central to the Catholic faith. And it is not an exception 
 
 <box type="tip">
 
+**The Road of Hope, 360**
+
+Ðèn không sáng, nếu hết dầu; xe không chạy, nếu cạn xăng; hồn tông đồ sẽ suy mạt nếu không đến với Thánh Thể: "Nếu các ngươi không ăn thịt Con Người và uống máu Ngài, các ngươi không có sự sống nơi mình các ngươi" (Ga 6,53).
+
+A lamp will not light if it runs out of oil; a car will not work if it runs out of petrol, an apostolic soul will weaken if it does not come to the Eucharist: "unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53)
+
 **The Road of Hope, 363**
 
 "Dù thiếu tất cả, dù mất tất cả, nhưng còn Thánh Thể là còn tất cả vì con có Chúa Thiên đàng dưới đất"
@@ -376,6 +382,24 @@ In the bunker inside the boat moving him to the North, he used bags as the altar
 And all of that effort to keep the Eucharist was not in vain. They managed to see a lot of miracles.
 
 At night, inmates adore the Eucharist. With the silent presence, Jesus Christ made many miracles. Many Catholics came back to faith enthusiastically. Their testimony of love and service had a great impact on other inmates. Even many Buddhists and agnostics converted into the faith. The power of Jesus’ love is irresistible. And so the darkness of night became the light of Easter, the seed has been sown in the middle of a storm. Prison became a school for catechism. Catholics conducted baptism for fellow inmates and became their godparents.
+
+This is just as he noted his book, the Road of Hope,
+
+<box type="tip">
+
+**The Road of Hope, 367**
+
+Chúa Giêsu đã làm cách mạng trên Thánh giá. Cuộc cách mạng của con phải bắt nguồn từ bàn thánh. Tiếp tục cuộc cách mạng của Chúa, con sẽ làm nên một nhân loại mới.
+
+Jesus made a revolution on the Holy Cross. Your revolution must start from the altar. Continuing God's revolution, you will renew humanity.
+
+**The Road of Hope, 369**
+
+Cả cuộc sống con phải loan truyền việc Chúa chịu chết và tuyên xưng việc Chúa sống lại.
+
+Your whole life must be to proclaim the Lord's death and profess His resurrection.
+
+</box>
 
 Jesus fed the people who followed Him in the desert, and in the Eucharist, Jesus continued to be the food for eternal life.
 
@@ -409,7 +433,13 @@ So he started to open up with the wardens. He talked about his past experience i
 
 <box type="tip">
 
-**John 25, 39**
+**The Road of Hope, 769**
+
+Sự lầm lạc lớn nhất là không biết những người khác là Chúa Kitô. Có nhiều người tận thế mới vỡ lẽ!
+
+The greatest mistake is not knowing others are Christ. Many people will only realise it at the end of the world!
+
+**Matthew 25:40**
 
 Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me.
 
@@ -556,6 +586,46 @@ In fact, this is consistent with what Thuan said when people asked him about his
 > Nhiều lúc tôi cảm thấy khó chịu trong lòng vì người ta phỏng vấn, muốn thúc giục tôi nói những chuyện giật gân, trong thời gian lao tù, ... Đó không phải mục đích của tôi. Nguyện vọng lớn nhất của tôi là trao lại cho các bạn trẻ một sứ điệp của tình thương và sự thật, của công lý và hòa bình, của tha thứ và hòa giải, để xây dựng.
 >
 > Many times I felt uncomfortable because when people interviewed me, they urged me to expose sensational stories during my time in prison ... That is not my purpose. My greatest wish is to convey to the young people a message of love and truth, of justice and peace, of forgiveness and reconciliation, for constructive actions.
+
+Going on the journey with Jesus towards heaven is not an easy journey. In fact, Jesus has made this very clear: following Him is not to stay in one's comfort zone, but to deny himself, and embrace hardship. But it is the ultimate rewards that makes the sacrifices worth it.
+
+<box type="tip">
+
+**Luke 9:23-26**
+
+And he said to all, “If any man would come after me, let him deny himself and take up his cross daily and follow me. For whoever would save his life will lose it; and whoever loses his life for my sake, he will save it. For what does it profit a man if he gains the whole world and loses or forfeits himself? For whoever is ashamed of me and of my words, of him will the Son of man be ashamed when he comes in his glory and the glory of the Father and of the holy angels.”
+
+</box>
+
+That is, in choosing God, one is to not hold back anything.
+
+But speaking practically, what can one do? Arguably, it is hard in this day and age to find the opportunity to make the sacrifice. Does God want us to not keep any possession, and do not care about our own well-being? Not exactly. God asks us to make the sacrifice when it comes to the decision between your own benefit and another person's benefit, your own pride and reconciliation with another person, your own satisfaction of getting revenge and forgiving your repentant friend.
+
+<box type="tip">
+
+**The Road of Hope, 153**
+
+Con nghĩ rằng con không có gì để hy sinh cho Chúa, nhưng Chúa thấy con bỏ qua nhiều dịp: tươi cười với một người nói móc họng, thinh lặng trước một vu cáo bất công, yêu thương một người bạn phản bội, không nói một lời hóc búa trả đũa. Mỗi giây phút đều có dịp hy sinh.
+
+You think that you have nothing to be sacrificed to God, but God observes that you have passed too many opportunities: smiling at someone bad-mouthing you, staying silent in the face of an unjust accusation against you, loving a friend who betrayed you, without a vengeful bad word in response. Every moment is an opportunity for sacrifice.
+
+</box>
+
+In fact, as we have seen, this degree of love is the sign proving that one is a Christian.
+
+Sacrifice also involves one's denouncement of sins.
+
+<box type="tip">
+
+**The Road of Hope, 162**
+
+Cái gì làm con xa Chúa, hãy hy sinh nó đi: Móc mắt, chặt tay, cưa chân...
+
+Whatever keeps you away from God, sacrifice it: gouge out your eyes, cut off your hands, saw off your legs, etc.
+
+**Matthew 5:29-30**: If your right eye causes you to sin, pluck it out and throw it away; it is better that you lose one of your members than that your whole body be thrown into hell. And if your right hand causes you to sin, cut it off and throw it away; it is better that you lose one of your members than that your whole body go into hell.
+
+</box>
 
 ### Mother Mary
 
