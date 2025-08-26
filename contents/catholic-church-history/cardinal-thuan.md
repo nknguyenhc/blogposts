@@ -235,6 +235,7 @@ But one is reminded that having that even just that small faith is difficult. An
 Hãy thành thực cầu xin như các Tông đồ: "Xin thêm đức tin cho chúng con" (Lc 17,5).
 
 Pray sincerely like the apostles, “Increase our faith!” (**Luke 17:5**)
+
 **Mark 9:24**, “I believe; help my unbelief!”
 
 </box>
