@@ -28,6 +28,9 @@
   * [Papal Infallibility]({{ baseUrl }}/contents/catholic-church-history/papal-infallibility.html)
   * [Vietnamese Martyrs]({{ baseUrl }}/contents/catholic-church-history/vietnamese-martyrs.html)
   * [Cardinal Thuan]({{ baseUrl }}/contents/catholic-church-history/cardinal-thuan.html)
+* **Faith and Morals**
+  * [Overview]({{ baseUrl }}/contents/faith-and-morals/overview.html)
+  * [Sola Fide]({{ baseUrl }}/contents/faith-and-morals/sola-fide.html)
 * **Sacraments**
   * [Overview]({{ baseUrl }}/contents/sacraments/overview.html)
   * [The Eucharist & Transubstantiation]({{ baseUrl }}/contents/sacraments/eucharist.html)
