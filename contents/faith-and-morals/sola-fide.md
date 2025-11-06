@@ -6,6 +6,8 @@
 
 <br>
 
+++[**7 Nov 2025 slides**](https://docs.google.com/presentation/d/1W82sebbui3C9sdXbCQS8mQah7L7AuGfHSVrTnlzPm4o/edit?usp=sharing)++
+
 ## Overview
 
 Sola fide is defined as justification by faith alone. According to [The Master's University](https://www.masters.edu/thinking_blog/jesus-perspective-on-sola-fide/), a non-denominational Christian college,
@@ -50,7 +52,7 @@ Jesus declared the importance of Christ in the plan of salvation: whoever believ
 
 Finally, the thief on the cross was saved: he did not do good works, yet just as he believed in Christ, he was promised to be in heaven.
 
-> And he said, “Jesus, remember me when you come in your kingly power.” And he said to him, “Truly, I say to you, today you will be with me in Paradise.”
+> Luke 23:42-43, And he said, “Jesus, remember me when you come in your kingly power.” And he said to him, “Truly, I say to you, today you will be with me in Paradise.”
 
 ## Jesus did not teach faith alone
 
@@ -320,7 +322,7 @@ Here, Paul is talking about the Jews and their zeal for righteousness through th
 
 <box type="tip">
 
-**Romans 3:30-32**
+**Romans 9:30-32**
 
 What shall we say, then? That Gentiles who did not pursue righteousness have attained it, that is, righteousness through faith; but that Israel who pursued the righteousness which is based on law did not succeed in fulfilling that law. Why? Because they did not pursue it through faith, but as if it were based on works. They have stumbled over the stumbling stone
 
@@ -570,7 +572,7 @@ Again, it is important to acknowledge that we are able to avoid mortal sins by t
 
 ### Statement 3
 
-> Although the works of man always seem attractive and good, they are nevertheless likely to be mortal sins. Human works appear attractive outwardly, but within they are filthy, as Christ says concerning the Pharisees in Matt. 23:27. For they appear to the doer and others good and beautiful, yet God does not judge according to appearances but searches _the minds and hearts_ (Ps. 7:9). For without grace and faith it is impossible to have a pure heart. Acts 15:9: _He cleansed their hearts by faith._
+> Although the works of man always seem attractive and good, they are nevertheless likely to be mortal sins. Human works appear attractive outwardly, but within they are filthy, as Christ says concerning the Pharisees in <tooltip content="Woe to you, scribes and Pharisees, hypocrites! for you are like whitewashed tombs, which outwardly appear beautiful, but within they are full of dead men’s bones and all uncleanness." placement="top">Matt. 23:27</tooltip>. For they appear to the doer and others good and beautiful, yet God does not judge according to appearances but searches _the minds and hearts_ (Ps. 7:9). For without grace and faith it is impossible to have a pure heart. Acts 15:9: _He cleansed their hearts by faith._
 
 Let's look at the basis for his claim: because the Pharisees do good works without God's grace and they sin. However, this claim is wrong, because the Pharisees are not necessarily doing good works. They are doing good works for a show, while their hearts are evil. This is what Jesus is condemning the Pharisees for. Note that having the right heart for good works does not necessarily mean that the attempt to do good works is under God's grace. A Gentile may attempt to do good works without even knowing God.
 
