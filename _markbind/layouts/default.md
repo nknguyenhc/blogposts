@@ -6,6 +6,7 @@
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><img src="/icon.svg" height="40"></a>
     <li><a href="{{baseUrl}}/contents/catholic-church-history/overview.html" class="nav-link">Catholic Church History</a></li>
+    <li><a href="{{baseUrl}}/contents/faith-and-morals/overview.html" class="nav-link">Faith and Morals</a></li>
     <li><a href="{{baseUrl}}/contents/sacraments/overview.html" class="nav-link">Sacraments</a></li>
     <li slot="right">
       <form class="navbar-form">
