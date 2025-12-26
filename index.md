@@ -19,7 +19,7 @@ I have said this to you, that in me you may have peace. In the world you have tr
 
 Hope has a name: Jesus. Jesus is the only way to the Father. In him we have hope: against evil, tribulation, sufferings, what awaits us at the end is union with God.
 
-Being Christian is to have hope. With this hope, we perservere in our loyalty to God.
+Being Christian is to have hope. With this hope, we persevere in our loyalty to God.
 
 <box type="tip">
 
