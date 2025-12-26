@@ -11,27 +11,23 @@
 
 <box type="tip">
 
-**Matthew 12:31**
+**John 16:33**
 
-Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
+I have said this to you, that in me you may have peace. In the world you have tribulation; but be of good cheer, I have overcome the world.
 
 </box>
 
-Throughout the new testament, forgiveness is a prominent theme. In the old testament, while God was portrayed as angry, at times unforgiving, Jesus sought to bring a more "correct" image of God to us: that God is forgiving, and is waiting for us to come back to him. Indeed, the only sin that He does not forgive is the refusal to repent and accept His forgiveness.
+Hope has a name: Jesus. Jesus is the only way to the Father. In him we have hope: against evil, tribulation, sufferings, what awaits us at the end is union with God.
 
-Being a Christian does not stop at just learning about Christ, but also about following His footsteps.
+Being Christian is to have hope. With this hope, we persevere in our loyalty to God.
 
 <box type="tip">
 
-**Luke 17:3-4**
+**James 1:12**
 
-Take heed to yourselves; if your brother sins, rebuke him, and if he repents, forgive him; and if he sins against you seven times in the day, and turns to you seven times, and says, 'I repent,' you must forgive him.
+Blessed is the man who endures trial, for when he has stood the test he will receive the crown of life which God has promised to those who love him.
 
 </box>
-
-We all have sinned, multiple times. And everytime we repent, God forgives. So in the same way, we must forgive others everytime they are apologetic. In fact, this is encapsulated in the "our Father" prayer that all of us recite:
-
-> And forgive us our trespasses, as we forgive those who trespass against us.
 
 ## Who am I
 
